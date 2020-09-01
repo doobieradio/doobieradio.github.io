@@ -1,0 +1,92 @@
+.navbar {
+    width: 100%;
+    position: absolute;
+    top: 10px;
+    @media only screen and (max-width: 1200px) { 
+        background:#fff !important;
+    }
+}
+
+.navbar-brand {
+    font-family: 'Damion', cursive;
+}
+
+div.dropdown-menu {
+    background-color: #4b4b4b;
+}
+  
+div.dropdown-menu a.dropdown-item {
+    color: #e1e1e1;
+}
+  
+div.dropdown-menu div.dropdown-divider {
+    border-top: 1px solid rgba(50, 50, 50, 0.9);
+}
+  
+div.dropdown-menu a.dropdown-item:hover,
+div.dropdown-menu a.dropdown-item:focus {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+}
+
+.jumbotron {
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    border-radius: 0;
+}
+
+@keyframes onAirAnimation {
+    0%   { opacity:1; }
+    50%  { opacity:0; }
+    100% { opacity:1; }
+}
+
+.onair > * {
+    margin: 10px 0;
+}
+
+.animate-onair {
+    opacity:1;  
+    animation: onAirAnimation 1s infinite;
+}
+
+.circle-img {
+    width: 196px;
+    height: 196px;
+    overflow: hidden;
+    filter: brightness(100%);
+    transition: all 0.2s linear;
+}
+
+.circle-img:hover {
+    filter: brightness(70%);
+    transition: all 0.2s linear;
+}
+  
+.circle-img img {
+    height: 100%;
+    transform: translateX(-50%);
+    margin-left: 50%;
+    min-width: 196px;
+}
+
+.modal {
+    color: #333333;
+}
+
+.schedule-show {
+    font-size: 8px;
+    white-space: pre-line;
+    overflow: hidden;
+    border-bottom: 1px solid black;
+}
+
+#sched {
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+#sched-days {
+    min-width: 960px;
+}

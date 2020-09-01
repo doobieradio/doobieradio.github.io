@@ -1,0 +1,219 @@
+shows = [
+    {
+        "title": "Down the Rabbit Hole",
+        "dj": "William Main",
+        "days": [0],
+        "startTime": 0,
+        "endTime": 200
+    },
+    {
+        "title": "Adam's Apple",
+        "dj": "Adam Venrick",
+        "days": [0],
+        "startTime": 930,
+        "endTime": 1130
+    },
+    {
+        "title": "The L. Ron Hubbard Radio Hour",
+        "dj": "Cecil Millen",
+        "days": [0],
+        "startTime": 1330,
+        "endTime": 1530
+    },
+    {
+        "title": "\"A Mission to Civilize\"",
+        "dj": "Blythe Dahlem",
+        "days": [0],
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
+        "title": "The Captain Croc Show",
+        "dj": "James Mahaney",
+        "days": [0],
+        "startTime": 1930,
+        "endTime": 2130
+    },
+    {
+        "title": "Off My Rocker!",
+        "dj": "Millie Weibel",
+        "days": [1],
+        "startTime": 730,
+        "endTime": 930
+    },
+    {
+        "title": "QPOC on WDUB",
+        "dj": "Samira Colbert",
+        "days": [1],
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
+        "title": "The Block with Denny Jenny",
+        "dj": "Jennifer Clancey",
+        "days": [1],
+        "startTime": 1330,
+        "endTime": 1530
+    },
+    {
+        "title": "The New Music Show",
+        "dj": "Olivia Vrablik",
+        "days": [1],
+        "startTime": 1730,
+        "endTime": 1930
+    },
+    {
+        "title": "Audible with Will",
+        "dj": "Will Knoop",
+        "days": [1],
+        "startTime": 2130,
+        "endTime": 2330
+    },
+    {
+        "title": "I Let My Fish Choose the Music",
+        "dj": "Matthew Sing",
+        "days": [2],
+        "startTime": 930,
+        "endTime": 1130
+    },
+    {
+        "title": "All Around the World",
+        "dj": "Chloe Sferra",
+        "days": [2],
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
+        "title": "Broadcasting Broadway",
+        "dj": "Alyssa Gebhart",
+        "days": [2],
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
+        "title": "Fare Enuf",
+        "dj": "Betsy Wagner",
+        "days": [2],
+        "startTime": 1730,
+        "endTime": 1930
+    },
+    {
+        "title": "Office Hours",
+        "dj": "Rachel Weaver",
+        "days": [2],
+        "startTime": 2130,
+        "endTime": 2330
+    },
+    {
+        "title": "Dry Oatmeal",
+        "dj": "Eilana Wright",
+        "days": [3],
+        "startTime": 930,
+        "endTime": 1130
+    },
+    {
+        "title": "The Fallout with Joey and Drew",
+        "dj": "Joey Semel",
+        "days": [3],
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
+        "title": "The Show Around The Corner",
+        "dj": "Kat Colvin",
+        "days": [3],
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
+        "title": "Taking it Easy with Roheezy",
+        "dj": "Rohan Arora",
+        "days": [3],
+        "startTime": 1730,
+        "endTime": 1930
+    },
+    {
+        "title": "RAW EGGS FOR BREAKFAST",
+        "dj": "Jake Gunther",
+        "days": [3],
+        "startTime": 2130,
+        "endTime": 2330
+    },
+    {
+        "title": "I Didn't Want Any of These Time Slots",
+        "dj": "James Whitney",
+        "days": [3],
+        "startTime": 2330,
+        "endTime": 2359
+    },
+    {
+        "title": "I Didn't Want Any of These Time Slots",
+        "dj": "James Whitney",
+        "days": [4],
+        "startTime": 0,
+        "endTime": 500
+    },
+    {
+        "title": "The Coffee Hour",
+        "dj": "Adam Venrick",
+        "days": [4],
+        "startTime": 730,
+        "endTime": 930
+    },
+    {
+        "title": "Cup O' Joe",
+        "dj": "Joe Heutel",
+        "days": [4],
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
+        "title": "Is a Bell Ringing?",
+        "dj": "Izzy Ostrowski",
+        "days": [5],
+        "startTime": 730,
+        "endTime": 930
+    },
+    {
+        "title": "The Curio Shop",
+        "dj": "Juliet Hurwitz",
+        "days": [5],
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
+        "title": "Vibe Check",
+        "dj": "Olivia Vrablik",
+        "days": [5],
+        "startTime": 1730,
+        "endTime": 1930
+    },
+    {
+        "title": "Chill Vibes with Ken",
+        "dj": "Kenlee Rong",
+        "days": [5],
+        "startTime": 2130,
+        "endTime": 2330
+    },
+    {
+        "title": "Snack Time",
+        "dj": "John Lidell",
+        "days": [6],
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
+        "title": "Slutty Shark Rodeo Jack May + Meredith",
+        "dj": "\"Dith\" Ehlers",
+        "days": [6],
+        "startTime": 1930,
+        "endTime": 2130
+    },
+    {
+        "title": "Down the Rabbit Hole",
+        "dj": "William Main",
+        "days": [6],
+        "startTime": 2330,
+        "endTime": 2359
+    }
+];
