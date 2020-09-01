@@ -72,14 +72,14 @@ function updateShows() {
 function showElement(show) {
     var node = document.createElement("div");
     node.setAttribute("class", "p-2 bg-primary schedule-show");
-    node.setAttribute("style", "height: " + (show.endTime - show.startTime) / 4 + "px;"); //supports IE?
+    node.setAttribute("style", "height: " + (show.endTime - show.startTime) / 3 + "px;"); //supports IE?
     node.textContent = show.title + "\n" + show.dj + "\n" + timeIntToStr(show.startTime) + " - " + timeIntToStr(show.endTime) + "";
     return node;
 }
 
 function spacerElement(interval) {
     var node = document.createElement("div");
-    node.setAttribute("style", "height: " + interval / 4 + "px;"); //supports IE?
+    node.setAttribute("style", "height: " + interval / 3 + "px;"); //supports IE?
     return node;
 }
 
