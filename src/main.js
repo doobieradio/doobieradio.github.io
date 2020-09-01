@@ -73,7 +73,7 @@ function showElement(show) {
     var node = document.createElement("div");
     node.setAttribute("class", "p-2 bg-primary schedule-show");
     node.setAttribute("style", "height: " + (show.endTime - show.startTime) / 4 + "px;"); //supports IE?
-    node.textContent = show.title + "\n" + timeIntToStr(show.startTime) + " - " + timeIntToStr(show.endTime) + "";
+    node.textContent = show.title + "\n" + show.dj + "\n" + timeIntToStr(show.startTime) + " - " + timeIntToStr(show.endTime) + "";
     return node;
 }
 
