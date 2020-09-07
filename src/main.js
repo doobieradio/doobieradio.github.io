@@ -1,5 +1,10 @@
 // Assumes an array "shows" is in scope.
 
+var ohio = -4;
+function getTimeIntForTZ(tz) {
+    return (new Date().getUTCHours() * 100 + tz * 100) + new Date().getMinutes();
+}
+
 /* shows */
 
 function getSortedShowsForDay(day) {
@@ -11,13 +16,13 @@ function getSortedShowsForDay(day) {
 }
 
 function timeIntToStr(i) {
-    var d = new Date()
+    var d = new Date();
     d.setHours((i - (i % 100)) / 100, i % 100);
     return d.toLocaleTimeString('en-US', { hour: 'numeric', hour12: true, minute: 'numeric' });
 }
 
 function currentShow() {
-    var now = new Date().getHours() * 100 + new Date().getMinutes();
+    var now = getTimeIntForTZ(ohio);
     for(var i = 0; i < shows.length; i++) {
         show = shows[i];
         if(show.days.includes(new Date().getDay()) && show.startTime <= now && now < show.endTime) {
@@ -27,7 +32,7 @@ function currentShow() {
 }
 
 function nextShow() {
-    var now = new Date().getHours() * 100 + new Date().getMinutes();
+    var now = getTimeIntForTZ(ohio);
     var today = new Date().getDay();
 
     var todaysShows = getSortedShowsForDay(today);
@@ -50,7 +55,7 @@ function updateCurrentShow() {
     document.getElementById("current-show").textContent = show.title;
     document.getElementById("current-dj").textContent = show.dj;
     // Should be time from previous show?
-    document.getElementById("current-start").textContent = show.startTime == "Now" ? timeIntToStr(new Date().getHours() * 100 + new Date().getMinutes()) : timeIntToStr(show.startTime);
+    document.getElementById("current-start").textContent = show.startTime == "Now" ? timeIntToStr(getTimeIntForTZ(ohio)) : timeIntToStr(show.startTime);
     document.getElementById("current-end").textContent = show.endTime == "Later" ? timeIntToStr(nextShow().startTime) : timeIntToStr(show.endTime);
 }
 
