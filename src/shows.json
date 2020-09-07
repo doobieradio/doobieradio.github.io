@@ -7,6 +7,13 @@ shows = [
         "endTime": 1
     },
     {
+        "title": "TBD",
+        "dj": "Doobie Radio",
+        "days": [1],
+        "startTime": 0,
+        "endTime": 1
+    },
+    {
         "title": "Adam's Apple",
         "dj": "Adam Venrick",
         "days": [1],
@@ -21,6 +28,13 @@ shows = [
         "endTime": 1930
     },
     {
+        "title": "TBD",
+        "dj": "Doobie Radio",
+        "days": [2],
+        "startTime": 0,
+        "endTime": 1
+    },
+    {
         "title": "The Autumn-Rose Parade",
         "dj": "Amanda Trautmann",
         "days": [2],
@@ -31,6 +45,13 @@ shows = [
         "title": "TBD",
         "dj": "Doobie Radio",
         "days": [3],
+        "startTime": 0,
+        "endTime": 1
+    },
+    {
+        "title": "TBD",
+        "dj": "Doobie Radio",
+        "days": [4],
         "startTime": 0,
         "endTime": 1
     },
