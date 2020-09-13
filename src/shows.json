@@ -1,17 +1,31 @@
 shows = [
     {
-        "title": "TBD",
-        "dj": "Doobie Radio",
+        "title": "Down the Rabbit Hole",
+        "dj": "William Main",
         "days": [0],
         "startTime": 0,
-        "endTime": 1
+        "endTime": 200
     },
     {
-        "title": "TBD",
-        "dj": "Doobie Radio",
-        "days": [1],
-        "startTime": 0,
-        "endTime": 1
+        "title": "Welcome to my TED Talk",
+        "dj": "Emily Muckle",
+        "days": [0],
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
+        "title": "Your Midday Existential Crisis",
+        "dj": "Nina Cosdon",
+        "days": [0],
+        "startTime": 1330,
+        "endTime": 1530
+    },
+    {
+        "title": "Ruth's Chris",
+        "dj": "Cole Rogers and Lucas Partridge",
+        "days": [0],
+        "startTime": 1930,
+        "endTime": 2130
     },
     {
         "title": "Adam's Apple",
@@ -28,13 +42,6 @@ shows = [
         "endTime": 1930
     },
     {
-        "title": "TBD",
-        "dj": "Doobie Radio",
-        "days": [2],
-        "startTime": 0,
-        "endTime": 1
-    },
-    {
         "title": "The Autumn-Rose Parade",
         "dj": "Amanda Trautmann",
         "days": [2],
@@ -42,18 +49,11 @@ shows = [
         "endTime": 2330
     },
     {
-        "title": "TBD",
-        "dj": "Doobie Radio",
+        "title": "The Show Around the Corner",
+        "dj": "Kat Colvin",
         "days": [3],
-        "startTime": 0,
-        "endTime": 1
-    },
-    {
-        "title": "TBD",
-        "dj": "Doobie Radio",
-        "days": [4],
-        "startTime": 0,
-        "endTime": 1
+        "startTime": 1930,
+        "endTime": 2130
     },
     {
         "title": "RAW EGGS FOR BREAKFAST",
@@ -84,6 +84,20 @@ shows = [
         "endTime": 930
     },
     {
+        "title": "easy living",
+        "dj": "Chase Summers",
+        "days": [5],
+        "startTime": 1030,
+        "endTime": 1330
+    },
+    {
+        "title": "Songs and The System",
+        "dj": "Liz Anastasiadis",
+        "days": [5],
+        "startTime": 1330,
+        "endTime": 1530
+    },
+    {
         "title": "Lego Star Wars Cantina",
         "dj": "Olivia Vrablik",
         "days": [5],
@@ -91,10 +105,45 @@ shows = [
         "endTime": 1930
     },
     {
-        "title": "TBD",
+        "title": "Yktv with Chel",
+        "dj": "Chelsey Sarante",
+        "days": [5],
+        "startTime": 1930,
+        "endTime": 2130
+    },
+    {
+        "title": "lindizzle",
         "dj": "Doobie Radio",
         "days": [6],
-        "startTime": 0,
-        "endTime": 1
+        "startTime": 1130,
+        "endTime": 1330
     },
+    {
+        "title": "Random",
+        "dj": "Sarah Barney",
+        "days": [6],
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
+        "title": "The Curio Shop",
+        "dj": "Juliet Hurwitz",
+        "days": [6],
+        "startTime": 1930,
+        "endTime": 2130
+    },
+    {
+        "title": "Slutty Shark Rodeo",
+        "dj": "Meredith Ehlers and Jack May",
+        "days": [6],
+        "startTime": 2130,
+        "endTime": 2330
+    },
+    {
+        "title": "Down the Rabbit Hole",
+        "dj": "William Main",
+        "days": [6],
+        "startTime": 2330,
+        "endTime": 2359
+    }
 ];
