@@ -88,7 +88,7 @@ div.dropdown-menu a.dropdown-item:focus {
 .schedule-show {
     font-size: 8px;
     white-space: pre-line;
-    overflow: hidden;
+    overflow: auto;
     border-bottom: 1px solid black;
 }
 

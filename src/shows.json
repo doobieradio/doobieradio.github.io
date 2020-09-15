@@ -42,6 +42,20 @@ shows = [
         "endTime": 1930
     },
     {
+        "title": "A Mission to Civilize",
+        "dj": "Blythe Dahlem",
+        "days": [2],
+        "startTime": 730,
+        "endTime": 930
+    },
+    {
+        "title": "I let my fish choose the music",
+        "dj": "Matthew Sing",
+        "days": [2],
+        "startTime": 1030,
+        "endTime": 1130
+    },
+    {
         "title": "The Autumn-Rose Parade",
         "dj": "Amanda Trautmann",
         "days": [2],
@@ -54,6 +68,13 @@ shows = [
         "days": [3],
         "startTime": 1930,
         "endTime": 2130
+    },
+    {
+        "title": "FARE ENUF",
+        "dj": "Betsy Wagner",
+        "days": [4],
+        "startTime": 1730,
+        "endTime": 1930
     },
     {
         "title": "RAW EGGS FOR BREAKFAST",
