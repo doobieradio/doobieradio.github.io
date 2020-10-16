@@ -65,7 +65,7 @@
             </div>
         </nav>
         <main role="main">
-            <div class="jumbotron" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bg5.jpg');">
+            <div class="jumbotron" id="jumbotron" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bg/default.jpg') center center no-repeat;">
                 <div class="container p-md-5 text-light">
                     <div class="row mb-5">
                     </div>
@@ -150,15 +150,20 @@
             days.forEach(function(dayElem) {
                 var day = parseInt(dayElem.getAttribute("data-day"));
                 var showsForDay = getSortedShowsForDay(day);
+                var lastShow = showsForDay[showsForDay.length-1];
                 for(var i = 0; i < showsForDay.length; i++) {
                     var show = showsForDay[i];
                     if(i == 0) {
                         dayElem.appendChild(spacerElement(show.startTime));
                     } else {
                         var prevShow = showsForDay[i-1];
-                        dayElem.appendChild(spacerElement(show.startTime - prevShow.endTime));
+                        if(show.startTime - prevShow.endTime)
+                            dayElem.appendChild(spacerElement(show.startTime - prevShow.endTime));
                     }
                     dayElem.appendChild(showElement(show));
+                }
+                if(lastShow.endTime != 2359) {
+                    dayElem.appendChild(spacerElement(2400 - lastShow.endTime));
                 }
             });
 

@@ -4,7 +4,9 @@ shows = [
         "dj": "William Main",
         "days": [0],
         "startTime": 0,
-        "endTime": 200
+        "endTime": 200,
+        "color": "#28a745",
+        "image": "bg/wm.jpeg"
     },
     {
         "title": "Welcome to my TED Talk",
@@ -19,6 +21,13 @@ shows = [
         "days": [0],
         "startTime": 1330,
         "endTime": 1530
+    },
+    {
+        "title": "The Undercard",
+        "dj": "William Main",
+        "days": [0],
+        "startTime": 1530,
+        "endTime": 1600
     },
     {
         "title": "Ruth's Chris",
@@ -40,6 +49,13 @@ shows = [
         "days": [1],
         "startTime": 1730,
         "endTime": 1930
+    },
+    {
+        "title": "Audible",
+        "dj": "Will Knoop",
+        "days": [1],
+        "startTime": 1930,
+        "endTime": 2130
     },
     {
         "title": "A Mission to Civilize",
@@ -75,6 +91,13 @@ shows = [
         "days": [4],
         "startTime": 1730,
         "endTime": 1930
+    },
+    {
+        "title": "James Whitney's Extra Fun Remote Radio Show on Thursdays, starring James Whitney",
+        "dj": "James Whitney",
+        "days": [4],
+        "startTime": 1930,
+        "endTime": 2130
     },
     {
         "title": "RAW EGGS FOR BREAKFAST",
@@ -130,11 +153,13 @@ shows = [
         "dj": "Chelsey Sarante",
         "days": [5],
         "startTime": 1930,
-        "endTime": 2130
+        "endTime": 2130,
+        "image": "bg/cs.jpg",
+        "color": "#6e4e9e"
     },
     {
         "title": "lindizzle",
-        "dj": "Doobie Radio",
+        "dj": "John Lindell",
         "days": [6],
         "startTime": 1130,
         "endTime": 1330
@@ -151,7 +176,9 @@ shows = [
         "dj": "Juliet Hurwitz",
         "days": [6],
         "startTime": 1930,
-        "endTime": 2130
+        "endTime": 2130,
+        "image": "bg/jh.jpeg",
+        "color": "#99c5c4"
     },
     {
         "title": "Slutty Shark Rodeo",

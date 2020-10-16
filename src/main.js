@@ -51,13 +51,15 @@ function nextShow() {
 
 function updateCurrentShow() {
     var show = currentShow();
-    show = show ? show : {title: "Playlist", dj: "Doobie DJs", startTime: "Now", endTime: "Later"};
+    show = show ? show : {title: "Doobie Mix", dj: "Doobie DJs", startTime: "Now", endTime: "Later"};
 
     document.getElementById("current-show").textContent = show.title;
     document.getElementById("current-dj").textContent = show.dj;
     // Should be time from previous show?
     document.getElementById("current-start").textContent = show.startTime == "Now" ? timeIntToStr(getTimeIntForTZ(ohio)) : timeIntToStr(show.startTime);
     document.getElementById("current-end").textContent = show.endTime == "Later" ? timeIntToStr(nextShow().startTime) : timeIntToStr(show.endTime);
+
+    document.getElementById("jumbotron").setAttribute("style", "background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/" + (show.image === undefined ? 'bg/default.jpg' : show.image) + "') center center no-repeat; background-size: cover;");
 }
 
 function updateNextShow() {
@@ -77,14 +79,15 @@ function updateShows() {
 
 function showElement(show) {
     var node = document.createElement("div");
-    node.setAttribute("class", "p-2 bg-primary schedule-show");
-    node.setAttribute("style", "height: " + (show.endTime - show.startTime) / 3 + "px;"); //supports IE?
+    node.setAttribute("class", "p-2 schedule-show");
+    node.setAttribute("style", "height: " + (show.endTime - show.startTime) / 3 + "px; background: " + (show.color === undefined ? '#007BFF' : show.color)); //supports IE?
     node.textContent = show.title + "\n" + show.dj + "\n" + timeIntToStr(show.startTime) + " - " + timeIntToStr(show.endTime) + "";
     return node;
 }
 
 function spacerElement(interval) {
     var node = document.createElement("div");
+    node.setAttribute("class", "schedule-show bg-secondary");
     node.setAttribute("style", "height: " + interval / 3 + "px;"); //supports IE?
     return node;
 }

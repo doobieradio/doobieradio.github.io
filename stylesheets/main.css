@@ -86,12 +86,14 @@ div.dropdown-menu a.dropdown-item:focus {
 }
 
 .schedule-show {
+    display: block;
     min-height: 0;
     transition: min-height .3s ease-in-out;
     font-size: 8px;
     white-space: pre-line;
     overflow: hidden;
     border-bottom: 1px solid black;
+    box-sizing: border-box;
 }
 
 .schedule-show:hover {
