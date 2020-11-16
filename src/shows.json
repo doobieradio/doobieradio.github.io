@@ -48,7 +48,8 @@ shows = [
         "dj": "Olivia Vrablik",
         "days": [1],
         "startTime": 1730,
-        "endTime": 1930
+        "endTime": 1930,
+        "image": "bg/ov-nms.png"
     },
     {
         "title": "Audible",
