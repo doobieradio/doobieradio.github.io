@@ -5,7 +5,8 @@ shows = [
         "days": [0],
         "startTime": 0,
         "endTime": 200,
-        "color": "#318723"
+        "color": "#318723",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -13,7 +14,8 @@ shows = [
         "days": [0],
         "startTime": 200,
         "endTime": 1330,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Your Midday Existential Crisis",
@@ -30,7 +32,8 @@ shows = [
         "days": [0],
         "startTime": 1530,
         "endTime": 1930,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "The Undercard",
@@ -38,7 +41,8 @@ shows = [
         "days": [0],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Whatta Feelin",
@@ -46,7 +50,8 @@ shows = [
         "days": [0],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#DE41CF"
+        "color": "#DE41CF",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -54,7 +59,8 @@ shows = [
         "days": [0],
         "startTime": 2330,
         "endTime": 2359,
-       "color": "#006699"
+       "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -62,7 +68,8 @@ shows = [
         "days": [1],
         "startTime": 0,
         "endTime": 1530,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Adam's Apple",
@@ -79,7 +86,8 @@ shows = [
         "days": [1],
         "startTime": 1730,
         "endTime": 2359,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -87,7 +95,8 @@ shows = [
         "days": [2],
         "startTime": 0,
         "endTime": 2359,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -95,7 +104,8 @@ shows = [
         "days": [3],
         "startTime": 0,
         "endTime": 0930,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "The Vanimal Show",
@@ -112,7 +122,8 @@ shows = [
         "days": [3],
         "startTime": 0930,
         "endTime": 2359,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -120,7 +131,8 @@ shows = [
         "days": [4],
         "startTime": 0,
         "endTime": 1930,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "You Should Listen to Me",
@@ -137,7 +149,8 @@ shows = [
         "days": [4],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "And A Side of Fries",
@@ -163,7 +176,8 @@ shows = [
         "days": [5],
         "startTime": 200,
         "endTime": 730,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "The Coffee Hour",
@@ -171,7 +185,8 @@ shows = [
         "days": [5],
         "startTime": 730,
         "endTime": 930,
-        "color": "#45C430"
+        "color": "#45C430",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -179,7 +194,8 @@ shows = [
         "days": [5],
         "startTime": 930,
         "endTime": 2130,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Lego Star Wars Cantina",
@@ -196,7 +212,8 @@ shows = [
         "days": [5],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
      },
     {
         "title": "Doobie Mix",
@@ -204,7 +221,8 @@ shows = [
         "days": [6],
         "startTime": 0,
         "endTime": 2130,
-        "color": "#006699"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "N Main Street",
@@ -212,7 +230,8 @@ shows = [
         "days": [6],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#318723"
+        "color": "#318723",
+        "image": "default.jpg"
     },
     {
         "title": "Down the Rabbit Hole",
@@ -220,6 +239,7 @@ shows = [
         "days": [6],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#318723"
+        "color": "#318723",
+        "image": "default.jpg"
     }
 ];
