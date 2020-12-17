@@ -14,8 +14,6 @@ shows = [
         "days": [0],
         "startTime": 200,
         "endTime": 1330
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Your Midday Existential Crisis",
@@ -23,8 +21,6 @@ shows = [
         "days": [0],
         "startTime": 1330,
         "endTime": 1530
-        "color": "#E02727",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -39,8 +35,6 @@ shows = [
         "days": [0],
         "startTime": 1930,
         "endTime": 2130
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Whatta Feelin",
@@ -48,8 +42,6 @@ shows = [
         "days": [0],
         "startTime": 2130,
         "endTime": 2330
-        "color": "#DE41CF",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -64,8 +56,6 @@ shows = [
         "days": [1],
         "startTime": 0,
         "endTime": 1530
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Adam's Apple",
@@ -73,8 +63,6 @@ shows = [
         "days": [1],
         "startTime": 1530,
         "endTime": 1730
-        "color": "1E7211",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -82,8 +70,6 @@ shows = [
         "days": [1],
         "startTime": 1730,
         "endTime": 2359
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -91,8 +77,6 @@ shows = [
         "days": [2],
         "startTime": 0,
         "endTime": 2359
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -100,8 +84,6 @@ shows = [
         "days": [3],
         "startTime": 0,
         "endTime": 0930
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "The Vanimal Show",
@@ -109,8 +91,6 @@ shows = [
         "days": [3],
         "startTime": 0930,
         "endTime": 1130
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -118,8 +98,6 @@ shows = [
         "days": [3],
         "startTime": 0930,
         "endTime": 2359
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -127,8 +105,6 @@ shows = [
         "days": [4],
         "startTime": 0,
         "endTime": 1930
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "You Should Listen to Me",
@@ -136,8 +112,6 @@ shows = [
         "days": [4],
         "startTime": 1930,
         "endTime": 2130
-        "color": "#000000",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -145,8 +119,6 @@ shows = [
         "days": [4],
         "startTime": 2130,
         "endTime": 2330
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "And A Side of Fries",
@@ -154,8 +126,6 @@ shows = [
         "days": [4],
         "startTime": 2330,
         "endTime": 2359
-        "color": "#37F014",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "And A Side of Fries",
@@ -163,8 +133,6 @@ shows = [
         "days": [5],
         "startTime": 0,
         "endTime": 200
-        "color": "#37F014",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -172,17 +140,13 @@ shows = [
         "days": [5],
         "startTime": 200,
         "endTime": 730
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "The Coffee Hour",
-        "dj": "Adam Venrick ('21) and Josh Poe ('21)",
+        "dj": "Adam Venrick ('21)",
         "days": [5],
         "startTime": 730,
         "endTime": 930
-        "color": "#45C430",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -190,8 +154,6 @@ shows = [
         "days": [5],
         "startTime": 930,
         "endTime": 2130
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Lego Star Wars Cantina",
@@ -199,8 +161,6 @@ shows = [
         "days": [5],
         "startTime": 2130,
         "endTime": 2330
-        "color": "#713B97",
-        "image": "bg/wm.jpeg"
      },
     {
         "title": "Doobie Mix",
@@ -208,8 +168,6 @@ shows = [
         "days": [5],
         "startTime": 2330,
         "endTime": 2359
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
      },
     {
         "title": "Doobie Mix",
@@ -217,8 +175,6 @@ shows = [
         "days": [6],
         "startTime": 0,
         "endTime": 2130
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "N Main Street",
@@ -226,8 +182,6 @@ shows = [
         "days": [6],
         "startTime": 2130,
         "endTime": 2330
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     },
     {
         "title": "Down the Rabbit Hole",
@@ -235,7 +189,5 @@ shows = [
         "days": [6],
         "startTime": 2330,
         "endTime": 2359
-        "color": "#318723",
-        "image": "bg/wm.jpeg"
     }
 ];
