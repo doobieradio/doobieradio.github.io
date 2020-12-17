@@ -9,6 +9,13 @@ shows = [
         "image": "bg/wm.jpeg"
     },
     {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [0],
+        "startTime": 200,
+        "endTime": 1330
+    },
+    {
         "title": "Your Midday Existential Crisis",
         "dj": "Nina Cosdon ('21)",
         "days": [0],
@@ -16,11 +23,11 @@ shows = [
         "endTime": 1530
     },
     {
-         "title": "Adam's Apple",
-        "dj": "Adam Venrick ('21)",
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
         "days": [2],
         "startTime": 1530,
-        "endTime": 1730
+        "endTime": 1930
     },
     {
         "title": "The Undercard",
@@ -37,11 +44,18 @@ shows = [
         "endTime": 2330
     },
     {
-        "title": "placeholder",
-        "dj": "placeholder",
-        "days": [1],
-        "startTime": 1530,
-        "endTime": 1730
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [2],
+        "startTime": 2330,
+        "endTime": 0
+    },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [2],
+        "startTime": 0,
+        "endTime": 0930
     },
     {
         "title": "The Vanimal Show",
