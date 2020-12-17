@@ -21,6 +21,8 @@ shows = [
         "days": [0],
         "startTime": 1330,
         "endTime": 1530
+        "color": "#E02727",
+        "image": "bg/wm.jpeg"
     },
     {
         "title": "The Undercard",
@@ -28,6 +30,8 @@ shows = [
         "days": [0],
         "startTime": 1530,
         "endTime": 1600
+        "color": "#318723",
+        "image": "bg/wm.jpeg"
     },
     {
         "title": "Ruth's Chris",
@@ -42,6 +46,8 @@ shows = [
         "days": [1],
         "startTime": 1530,
         "endTime": 1730
+        "color": "#1E7211",
+        "image": "bg/wm.jpeg"
     },
     {
         "title": "The New Music Show",
@@ -113,6 +119,8 @@ shows = [
         "days": [4],
         "startTime": 2330,
         "endTime": 2359
+         "image": "bg/cs.jpg",
+        "color": "#6e4e9e"
     },
     {
         "title": "And A Side of Fries",
@@ -120,6 +128,9 @@ shows = [
         "days": [5],
         "startTime": 0,
         "endTime": 200
+         "image": "bg/cs.jpg",
+        "color": "#6e4e9e"
+        
     },
     {
         "title": "The Coffee Hour",
@@ -148,6 +159,8 @@ shows = [
         "days": [5],
         "startTime": 1730,
         "endTime": 1930
+         "color": "#713B97",
+        "image": "bg/wm.jpeg"
     },
     {
         "title": "Yktv with Chel",
@@ -194,5 +207,7 @@ shows = [
         "days": [6],
         "startTime": 2330,
         "endTime": 2359
+        "color": "#318723",
+        "image": "bg/wm.jpeg"
     }
 ];
