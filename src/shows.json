@@ -22,7 +22,7 @@ shows = [
         "startTime": 1330,
         "endTime": 1530,
         "color": "#E02727",
-        "image": "nc1.jpeg"
+        "image": "nc1.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -104,7 +104,7 @@ shows = [
         "startTime": 0930,
         "endTime": 1130,
         "color": "#D56B1C",
-        "image": "mm1.jpeg"
+        "image": "mm1.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -121,7 +121,7 @@ shows = [
         "startTime": 0,
         "endTime": 1930,
         "color": "#006699",
-        "image": "OV1.jpg"
+        "image": "JW1.jpeg"
     },
     {
         "title": "You Should Listen to Me",
@@ -147,7 +147,7 @@ shows = [
         "startTime": 2330,
         "endTime": 2359,
         "color": "#00e600",
-        "image": "jp1.jpeg"
+        "image": "jp1.jpg"
     },
     {
         "title": "And A Side of Fries",
@@ -156,7 +156,7 @@ shows = [
         "startTime": 0,
         "endTime": 200,
         "color": "#00e600",
-        "image": "jp1.jpeg"
+        "image": "jp1.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -189,7 +189,7 @@ shows = [
         "startTime": 2130,
         "endTime": 2330,
         "color": "#713B97",
-        "image": "ov1.jpeg"
+        "image": "ov1.jpg"
      },
     {
         "title": "Doobie Mix",
