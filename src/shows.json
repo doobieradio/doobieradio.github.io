@@ -20,7 +20,8 @@ shows = [
         "dj": "Nina Cosdon ('21)",
         "days": [0],
         "startTime": 1330,
-        "endTime": 1530
+        "endTime": 1530,
+        "color": "#318723"
     },
     {
         "title": "Doobie Mix",
@@ -105,7 +106,6 @@ shows = [
         "days": [4],
         "startTime": 0,
         "endTime": 1930
-        "image": "av1.jpeg"
     },
     {
         "title": "You Should Listen to Me",
