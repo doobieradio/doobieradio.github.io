@@ -29,7 +29,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [0],
         "startTime": 1530,
-        "endTime": 1930
+        "endTime": 1930,
+        "color": "#6BCFDE"
     },
     {
         "title": "The Undercard",
