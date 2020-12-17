@@ -30,46 +30,32 @@ shows = [
         "endTime": 2130
     },
     {
-        "title": "Ruth's Chris",
-        "dj": "Cole Rogers and Lucas Partridge",
+        "title": "Whatta Feelin",
+        "dj": "Morgan Daniels",
         "days": [0],
         "startTime": 2130,
         "endTime": 2330
     },
     {
-        "title": "Adam's Apple",
-        "dj": "Adam Venrick",
+        "title": "placeholder",
+        "dj": "placeholder",
         "days": [1],
         "startTime": 1530,
         "endTime": 1730
     },
     {
-        "title": "The Show Around the Corner",
-        "dj": "Kat Colvin",
+        "title": "TThe Vanimal Show",
+        "dj": "Maxwell Marshall",
         "days": [3],
         "startTime": 0930,
         "endTime": 1130
     },
     {
-        "title": "FARE ENUF",
-        "dj": "Betsy Wagner",
-        "days": [4],
-        "startTime": 1730,
-        "endTime": 1930
-    },
-    {
-        "title": "James Whitney's Extra Fun Remote Radio Show on Thursdays, starring James Whitney",
-        "dj": "James Whitney",
+        "title": "You Should Listen to Me",
+        "dj": "Julia Weigman",
         "days": [4],
         "startTime": 1930,
         "endTime": 2130
-    },
-    {
-        "title": "RAW EGGS FOR BREAKFAST",
-        "dj": "Jake Gunther",
-        "days": [4],
-        "startTime": 2130,
-        "endTime": 2330
     },
     {
         "title": "And A Side of Fries",
@@ -93,61 +79,15 @@ shows = [
         "endTime": 930
     },
     {
-        "title": "easy living",
-        "dj": "Chase Summers",
-        "days": [5],
-        "startTime": 1030,
-        "endTime": 1330
-    },
-    {
-        "title": "Songs and The System",
-        "dj": "Liz Anastasiadis",
-        "days": [5],
-        "startTime": 1330,
-        "endTime": 1530
-    },
-    {
         "title": "Lego Star Wars Cantina",
         "dj": "Olivia Vrablik",
         "days": [5],
-        "startTime": 1730,
-        "endTime": 1930
+        "startTime": 2130,
+        "endTime": 2330
     },
     {
-        "title": "Yktv with Chel",
-        "dj": "Chelsey Sarante",
-        "days": [5],
-        "startTime": 1930,
-        "endTime": 2130,
-        "image": "bg/cs.jpg",
-        "color": "#6e4e9e"
-    },
-    {
-        "title": "lindizzle",
-        "dj": "John Lindell",
-        "days": [6],
-        "startTime": 1130,
-        "endTime": 1330
-    },
-    {
-        "title": "Random",
-        "dj": "Sarah Barney",
-        "days": [6],
-        "startTime": 1530,
-        "endTime": 1730
-    },
-    {
-        "title": "The Curio Shop",
-        "dj": "Juliet Hurwitz",
-        "days": [6],
-        "startTime": 1930,
-        "endTime": 2130,
-        "image": "bg/jh.jpeg",
-        "color": "#99c5c4"
-    },
-    {
-        "title": "Slutty Shark Rodeo",
-        "dj": "Meredith Ehlers and Jack May",
+        "title": "N Main Street",
+        "dj": "William Main",
         "days": [6],
         "startTime": 2130,
         "endTime": 2330
