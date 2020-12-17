@@ -14,7 +14,7 @@ shows = [
         "days": [0],
         "startTime": 200,
         "endTime": 1330,
-        "color": "#343A40"
+        "color": "#006699"
     },
     {
         "title": "Your Midday Existential Crisis",
@@ -38,7 +38,7 @@ shows = [
         "days": [0],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#318723"
+        "color": "#006699"
     },
     {
         "title": "Whatta Feelin",
@@ -60,7 +60,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 0,
-        "endTime": 1530
+        "endTime": 1530,
+        "color": "#006699"
     },
     {
         "title": "Adam's Apple",
@@ -75,7 +76,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 1730,
-        "endTime": 2359
+        "endTime": 2359,
+        "color": "#006699"
     },
     {
         "title": "Doobie Mix",
@@ -89,7 +91,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [3],
         "startTime": 0,
-        "endTime": 0930
+        "endTime": 0930,
+        "color": "#006699"
     },
     {
         "title": "The Vanimal Show",
@@ -104,14 +107,16 @@ shows = [
         "dj": "Doobie DJs",
         "days": [3],
         "startTime": 0930,
-        "endTime": 2359
+        "endTime": 2359,
+        "color": "#006699"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [4],
         "startTime": 0,
-        "endTime": 1930
+        "endTime": 1930,
+        "color": "#006699"
     },
     {
         "title": "You Should Listen to Me",
@@ -126,7 +131,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [4],
         "startTime": 2130,
-        "endTime": 2330
+        "endTime": 2330,
+        "color": "#006699"
     },
     {
         "title": "And A Side of Fries",
@@ -149,7 +155,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [5],
         "startTime": 200,
-        "endTime": 730
+        "endTime": 730,
+        "color": "#006699"
     },
     {
         "title": "The Coffee Hour",
@@ -164,7 +171,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [5],
         "startTime": 930,
-        "endTime": 2130
+        "endTime": 2130,
+        "color": "#006699"
     },
     {
         "title": "Lego Star Wars Cantina",
@@ -179,14 +187,16 @@ shows = [
         "dj": "Doobie DJs",
         "days": [5],
         "startTime": 2330,
-        "endTime": 2359
+        "endTime": 2359,
+        "color": "#006699"
      },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [6],
         "startTime": 0,
-        "endTime": 2130
+        "endTime": 2130,
+        "color": "#006699"
     },
     {
         "title": "N Main Street",
