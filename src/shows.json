@@ -54,8 +54,8 @@ shows = [
         "title": "The Show Around the Corner",
         "dj": "Kat Colvin",
         "days": [3],
-        "startTime": 1930,
-        "endTime": 2130
+        "startTime": 0930,
+        "endTime": 1130
     },
     {
         "title": "FARE ENUF",
