@@ -9,13 +9,6 @@ shows = [
         "image": "bg/wm.jpeg"
     },
     {
-        "title": "Welcome to my TED Talk",
-        "dj": "Emily Muckle",
-        "days": [0],
-        "startTime": 1130,
-        "endTime": 1330
-    },
-    {
         "title": "Your Midday Existential Crisis",
         "dj": "Nina Cosdon",
         "days": [0],
