@@ -16,6 +16,13 @@ shows = [
         "endTime": 1530
     },
     {
+         "title": "Adam's Apple",
+        "dj": "Adam Venrick",
+        "days": [2],
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
         "title": "The Undercard",
         "dj": "William Main",
         "days": [0],
