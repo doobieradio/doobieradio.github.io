@@ -19,15 +19,15 @@ shows = [
         "title": "The Undercard",
         "dj": "William Main",
         "days": [0],
-        "startTime": 1530,
-        "endTime": 1600
+        "startTime": 1930,
+        "endTime": 2130
     },
     {
         "title": "Ruth's Chris",
         "dj": "Cole Rogers and Lucas Partridge",
         "days": [0],
-        "startTime": 1930,
-        "endTime": 2130
+        "startTime": 2130,
+        "endTime": 2330
     },
     {
         "title": "Adam's Apple",
@@ -35,13 +35,6 @@ shows = [
         "days": [1],
         "startTime": 1530,
         "endTime": 1730
-    },
-    {
-        "title": "A Mission to Civilize",
-        "dj": "Blythe Dahlem",
-        "days": [2],
-        "startTime": 730,
-        "endTime": 930
     },
     {
         "title": "I let my fish choose the music",
