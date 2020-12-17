@@ -5,23 +5,23 @@ djs = [
         "bio": "Do you ever think about how we’re all going to die? Nina does all the time, and she’s channeled her existential crises into a radio show for your listening pleasure. From climate change to crooked politicians to a zombie apocalypse, Your Midday Existential Crisis discusses any and all doomsday predictions (accompanied by themed music, of course). If you would like to come on the show and/or give your theory of how the world will end, email Nina at cosdon_n1@denison.edu"
     },
     {
-        "id": "ks20",
-        "name": "Karan Sethna (‘20)",
+        "id": "WM23",
+        "name": "William Main (‘23)",
         "bio": "The Arguably Happy And Festive Karan Show. With an RJ as volatile as the changing winds (do winds really change though?), get ready to listen to some music he thinks you’ve never heard before, but also music he thinks you definitely should have heard before. It’s confusing, but fear not! He’s just as confused as you are. All he knows is that he plays decent tunes, even if no one is listening. He can’t really give a straight answer when asked what kind of music he likes, because he likes the music that he likes. It’s very cyclical. But in a nutshell, rock and variants – modern, alternative, indie, British etc. etc. Really anything that catches his eye. Ear? You know what he means. He just needs to get the music out there."
     },
     {
-        "id": "ak20kf20",
-        "name": "Annie Karasarides (‘20) and Kileigh Ford (‘20)",
+        "id": "MD22",
+        "name": "Morgan Daniels ('22)",
         "bio": "Annie and Kileigh have 21 years of experience listening to their parents’ favorite artists, willingly or not. “Sounds Like...” takes that knowledge and broadens it. From new artists who boast the oldies as their inspiration, the classic musicians themselves, and just some tunes that give you their same feeling, each “Sounds Like...” show is based on a recording artist considered one of the greats and the legacy they’ve left behind in new music."
     },
     {
-        "id": "NC2",
-        "name": "Nina Cosdon (‘21)",
+        "id": "JW22",
+        "name": "Julia Weigman ('22)",
         "bio": "Do you ever think about how we’re all going to die? Nina does all the time, and she’s channeled her existential crises into a radio show for your listening pleasure. From climate change to crooked politicians to a zombie apocalypse, Your Midday Existential Crisis discusses any and all doomsday predictions (accompanied by themed music, of course). If you would like to come on the show and/or give your theory of how the world will end, email Nina at cosdon_n1@denison.edu"
     },
     {
-        "id": "cm20",
-        "name": "Cecil Millen (‘20)",
+        "id": "MM21",
+        "name": "Maxwell Marshall" ('21),
         "bio": "Cecil is from North Carolina and his musical preferences revolve heavily around Jam Bands. Grateful Dead and the Allman Brothers are his favorite bands, but he tends to like anything with soul, blues, or twang in it. Cecil is also a huge bitch."
     }
 ];
