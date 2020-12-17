@@ -22,7 +22,7 @@ shows = [
         "startTime": 1330,
         "endTime": 1530,
         "color": "#E02727",
-        "image": "nc.jpeg"
+        "image": "nc1.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -70,7 +70,8 @@ shows = [
         "days": [1],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#1E7211"
+        "color": "#1E7211",
+        "image": "av1.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -102,7 +103,8 @@ shows = [
         "days": [3],
         "startTime": 0930,
         "endTime": 1130,
-        "color": "#D56B1C"
+        "color": "#D56B1C",
+        "image": "mm1.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -126,7 +128,8 @@ shows = [
         "days": [4],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#000000"
+        "color": "#000000",
+        "image": "jw1.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -142,7 +145,8 @@ shows = [
         "days": [4],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#00e600"
+        "color": "#00e600",
+        "image": "jp1.jpeg"
     },
     {
         "title": "And A Side of Fries",
@@ -150,7 +154,8 @@ shows = [
         "days": [5],
         "startTime": 0,
         "endTime": 200,
-        "color": "#00e600"
+        "color": "#00e600",
+        "image": "jp1.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -182,7 +187,8 @@ shows = [
         "days": [5],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#713B97"
+        "color": "#713B97",
+        "image": "ov1.jpeg"
      },
     {
         "title": "Doobie Mix",
