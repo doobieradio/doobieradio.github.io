@@ -13,7 +13,8 @@ shows = [
         "dj": "Doobie DJs",
         "days": [0],
         "startTime": 200,
-        "endTime": 1330
+        "endTime": 1330,
+        "color": "#343A40"
     },
     {
         "title": "Your Midday Existential Crisis",
