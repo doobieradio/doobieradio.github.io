@@ -5,7 +5,7 @@ shows = [
         "days": [0],
         "startTime": 0,
         "endTime": 200,
-        "color": "#28a745",
+        "color": "#318723",
         "image": "bg/wm.jpeg"
     },
     {
