@@ -44,7 +44,7 @@ shows = [
         "days": [0],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#318723"
+        "color": "#DE41CF"
     },
     {
         "title": "Doobie Mix",
@@ -94,7 +94,8 @@ shows = [
         "dj": "Maxwell Marshall ('21)",
         "days": [3],
         "startTime": 0930,
-        "endTime": 1130
+        "endTime": 1130,
+        "color": "#B4A114"
     },
     {
         "title": "Doobie Mix",
