@@ -55,7 +55,7 @@ shows = [
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 0,
-        "endTime": 0930
+        "endTime": 1530
     },
     {
         "title": "Adam's Apple",
@@ -135,12 +135,19 @@ shows = [
         "endTime": 200
     },
     {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [5],
+        "startTime": 200,
+        "endTime": 730
+    },
+    {
         "title": "The Coffee Hour",
         "dj": "Adam Venrick ('21)",
         "days": [5],
         "startTime": 730,
         "endTime": 930
-     },
+    },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
