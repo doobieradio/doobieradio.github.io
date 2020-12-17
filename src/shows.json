@@ -9,6 +9,13 @@ shows = [
         "image": "bg/wm.jpeg"
     },
     {
+        "title": "Welcome to my TED Talk",
+        "dj": "Emily Muckle",
+        "days": [0],
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
         "title": "Your Midday Existential Crisis",
         "dj": "Nina Cosdon",
         "days": [0],
@@ -19,15 +26,15 @@ shows = [
         "title": "The Undercard",
         "dj": "William Main",
         "days": [0],
-        "startTime": 1930,
-        "endTime": 2130
+        "startTime": 1530,
+        "endTime": 1600
     },
     {
-         "title": "Whatta Feelin",
-        "dj": "Morgan Daniels",
+        "title": "Ruth's Chris",
+        "dj": "Cole Rogers and Lucas Partridge",
         "days": [0],
-        "startTime": 2130,
-        "endTime": 2330
+        "startTime": 1930,
+        "endTime": 2130
     },
     {
         "title": "Adam's Apple",
@@ -37,18 +44,68 @@ shows = [
         "endTime": 1730
     },
     {
-        "title": "The Show Around the Corner",
-        "dj": "Kat Colvin",
-        "days": [3],
-        "startTime": 0930,
+        "title": "The New Music Show",
+        "dj": "Olivia Vrablik",
+        "days": [1],
+        "startTime": 1730,
+        "endTime": 1930,
+        "image": "bg/ov-nms.png"
+    },
+    {
+        "title": "Audible",
+        "dj": "Will Knoop",
+        "days": [1],
+        "startTime": 1930,
+        "endTime": 2130
+    },
+    {
+        "title": "A Mission to Civilize",
+        "dj": "Blythe Dahlem",
+        "days": [2],
+        "startTime": 730,
+        "endTime": 930
+    },
+    {
+        "title": "I let my fish choose the music",
+        "dj": "Matthew Sing",
+        "days": [2],
+        "startTime": 1030,
         "endTime": 1130
     },
     {
-        "title": "You Should Listen to Me",
-        "dj": "Julia Weigman",
+        "title": "The Autumn-Rose Parade",
+        "dj": "Amanda Trautmann",
+        "days": [2],
+        "startTime": 2130,
+        "endTime": 2330
+    },
+    {
+        "title": "The Show Around the Corner",
+        "dj": "Kat Colvin",
+        "days": [3],
+        "startTime": 1930,
+        "endTime": 2130
+    },
+    {
+        "title": "FARE ENUF",
+        "dj": "Betsy Wagner",
+        "days": [4],
+        "startTime": 1730,
+        "endTime": 1930
+    },
+    {
+        "title": "James Whitney's Extra Fun Remote Radio Show on Thursdays, starring James Whitney",
+        "dj": "James Whitney",
         "days": [4],
         "startTime": 1930,
         "endTime": 2130
+    },
+    {
+        "title": "RAW EGGS FOR BREAKFAST",
+        "dj": "Jake Gunther",
+        "days": [4],
+        "startTime": 2130,
+        "endTime": 2330
     },
     {
         "title": "And A Side of Fries",
@@ -72,20 +129,64 @@ shows = [
         "endTime": 930
     },
     {
+        "title": "easy living",
+        "dj": "Chase Summers",
+        "days": [5],
+        "startTime": 1030,
+        "endTime": 1330
+    },
+    {
+        "title": "Songs and The System",
+        "dj": "Liz Anastasiadis",
+        "days": [5],
+        "startTime": 1330,
+        "endTime": 1530
+    },
+    {
         "title": "Lego Star Wars Cantina",
         "dj": "Olivia Vrablik",
         "days": [5],
-        "startTime": 2130,
-        "endTime": 2330
+        "startTime": 1730,
+        "endTime": 1930
     },
     {
-        "title": "N Main Street",
-        "dj": "William Main",
+        "title": "Yktv with Chel",
+        "dj": "Chelsey Sarante",
+        "days": [5],
+        "startTime": 1930,
+        "endTime": 2130,
+        "image": "bg/cs.jpg",
+        "color": "#6e4e9e"
+    },
+    {
+        "title": "lindizzle",
+        "dj": "John Lindell",
         "days": [6],
-        "startTime": 2130,
-        "endTime": 2330,
+        "startTime": 1130,
+        "endTime": 1330
+    },
+    {
+        "title": "Random",
+        "dj": "Sarah Barney",
+        "days": [6],
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
+        "title": "The Curio Shop",
+        "dj": "Juliet Hurwitz",
+        "days": [6],
+        "startTime": 1930,
+        "endTime": 2130,
         "image": "bg/jh.jpeg",
         "color": "#99c5c4"
+    },
+    {
+        "title": "Slutty Shark Rodeo",
+        "dj": "Meredith Ehlers and Jack May",
+        "days": [6],
+        "startTime": 2130,
+        "endTime": 2330
     },
     {
         "title": "Down the Rabbit Hole",
