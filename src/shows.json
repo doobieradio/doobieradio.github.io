@@ -6,7 +6,7 @@ shows = [
         "startTime": 0,
         "endTime": 200,
         "color": "#318723",
-        "image": "bg/wm.jpeg"
+        "image": "av1.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -105,6 +105,7 @@ shows = [
         "days": [4],
         "startTime": 0,
         "endTime": 1930
+        "image": "av1.jpeg"
     },
     {
         "title": "You Should Listen to Me",
