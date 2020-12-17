@@ -37,20 +37,6 @@ shows = [
         "endTime": 1730
     },
     {
-        "title": "I let my fish choose the music",
-        "dj": "Matthew Sing",
-        "days": [2],
-        "startTime": 1030,
-        "endTime": 1130
-    },
-    {
-        "title": "The Autumn-Rose Parade",
-        "dj": "Amanda Trautmann",
-        "days": [2],
-        "startTime": 2130,
-        "endTime": 2330
-    },
-    {
         "title": "The Show Around the Corner",
         "dj": "Kat Colvin",
         "days": [3],
