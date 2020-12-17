@@ -37,21 +37,6 @@ shows = [
         "endTime": 1730
     },
     {
-        "title": "The New Music Show",
-        "dj": "Olivia Vrablik",
-        "days": [1],
-        "startTime": 1730,
-        "endTime": 1930,
-        "image": "bg/ov-nms.png"
-    },
-    {
-        "title": "Audible",
-        "dj": "Will Knoop",
-        "days": [1],
-        "startTime": 1930,
-        "endTime": 2130
-    },
-    {
         "title": "A Mission to Civilize",
         "dj": "Blythe Dahlem",
         "days": [2],
