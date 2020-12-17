@@ -5,8 +5,7 @@ shows = [
         "days": [0],
         "startTime": 0,
         "endTime": 200,
-        "color": "#318723",
-        "image": "av1.jpeg"
+        "color": "#318723"
     },
     {
         "title": "Doobie Mix",
@@ -22,7 +21,8 @@ shows = [
         "days": [0],
         "startTime": 1330,
         "endTime": 1530,
-        "color": "#E02727"
+        "color": "#E02727",
+        image": "nc.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -102,7 +102,7 @@ shows = [
         "days": [3],
         "startTime": 0930,
         "endTime": 1130,
-        "color": "#B4A114"
+        "color": "#D56B1C"
     },
     {
         "title": "Doobie Mix",
@@ -142,7 +142,7 @@ shows = [
         "days": [4],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#37F014"
+        "color": "#00e600"
     },
     {
         "title": "And A Side of Fries",
@@ -150,7 +150,7 @@ shows = [
         "days": [5],
         "startTime": 0,
         "endTime": 200,
-        "color": "#37F014"
+        "color": "#00e600"
     },
     {
         "title": "Doobie Mix",
