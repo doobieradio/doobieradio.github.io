@@ -120,8 +120,7 @@ shows = [
         "days": [4],
         "startTime": 0,
         "endTime": 1930,
-        "color": "#006699",
-        "image": "JW1.jpeg"
+        "color": "#006699"
     },
     {
         "title": "You Should Listen to Me",
