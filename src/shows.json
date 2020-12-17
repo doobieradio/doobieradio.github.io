@@ -25,7 +25,7 @@ shows = [
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
-        "days": [2],
+        "days": [0],
         "startTime": 1530,
         "endTime": 1930
     },
@@ -61,8 +61,29 @@ shows = [
         "title": "Adam's Apple",
         "dj": "Adam Venrick ('21)",
         "days": [1],
-        "startTime": 1330,
-        "endTime": 1530
+        "startTime": 1530,
+        "endTime": 1730
+    },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [1],
+        "startTime": 1730,
+        "endTime": 2359
+    },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [2],
+        "startTime": 0,
+        "endTime": 2359
+    },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [3],
+        "startTime": 0,
+        "endTime": 0930
     },
     {
         "title": "The Vanimal Show",
@@ -72,11 +93,32 @@ shows = [
         "endTime": 1130
     },
     {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [3],
+        "startTime": 0930,
+        "endTime": 2359
+    },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [4],
+        "startTime": 0,
+        "endTime": 1930
+    },
+    {
         "title": "You Should Listen to Me",
         "dj": "Julia Weigman ('22)",
         "days": [4],
         "startTime": 1930,
         "endTime": 2130
+    },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [4],
+        "startTime": 2130,
+        "endTime": 2330
     },
     {
         "title": "And A Side of Fries",
@@ -98,6 +140,13 @@ shows = [
         "days": [5],
         "startTime": 730,
         "endTime": 930
+     },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [5],
+        "startTime": 930,
+        "endTime": 2130
     },
     {
         "title": "Lego Star Wars Cantina",
@@ -105,6 +154,20 @@ shows = [
         "days": [5],
         "startTime": 2130,
         "endTime": 2330
+     },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [5],
+        "startTime": 2330,
+        "endTime": 2359
+     },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [6],
+        "startTime": 0,
+        "endTime": 2130
     },
     {
         "title": "N Main Street",
