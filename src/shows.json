@@ -35,14 +35,16 @@ shows = [
         "dj": "William Main ('23)",
         "days": [0],
         "startTime": 1930,
-        "endTime": 2130
+        "endTime": 2130,
+        "color": "#318723"
     },
     {
         "title": "Whatta Feelin",
         "dj": "Morgan Daniels ('22)",
         "days": [0],
         "startTime": 2130,
-        "endTime": 2330
+        "endTime": 2330,
+        "color": "#318723"
     },
     {
         "title": "Doobie Mix",
@@ -63,7 +65,8 @@ shows = [
         "dj": "Adam Venrick ('21)",
         "days": [1],
         "startTime": 1530,
-        "endTime": 1730
+        "endTime": 1730,
+        "color": "#1E7211"
     },
     {
         "title": "Doobie Mix",
@@ -112,7 +115,8 @@ shows = [
         "dj": "Julia Weigman ('22)",
         "days": [4],
         "startTime": 1930,
-        "endTime": 2130
+        "endTime": 2130,
+        "color": "#000000"
     },
     {
         "title": "Doobie Mix",
@@ -126,14 +130,16 @@ shows = [
         "dj": "Josh Poe ('21)",
         "days": [4],
         "startTime": 2330,
-        "endTime": 2359
+        "endTime": 2359,
+        "color": "#37F014"
     },
     {
         "title": "And A Side of Fries",
         "dj": "Josh Poe ('21)",
         "days": [5],
         "startTime": 0,
-        "endTime": 200
+        "endTime": 200,
+        "color": "#37F014"
     },
     {
         "title": "Doobie Mix",
@@ -144,10 +150,11 @@ shows = [
     },
     {
         "title": "The Coffee Hour",
-        "dj": "Adam Venrick ('21)",
+        "dj": "Adam Venrick ('21) and Josh Poe ('21)",
         "days": [5],
         "startTime": 730,
-        "endTime": 930
+        "endTime": 930,
+        "color": "#45C430"
     },
     {
         "title": "Doobie Mix",
@@ -161,7 +168,8 @@ shows = [
         "dj": "Olivia Vrablik ('22)",
         "days": [5],
         "startTime": 2130,
-        "endTime": 2330
+        "endTime": 2330,
+        "color": "#713B97"
      },
     {
         "title": "Doobie Mix",
@@ -182,13 +190,15 @@ shows = [
         "dj": "William Main ('23)",
         "days": [6],
         "startTime": 2130,
-        "endTime": 2330
+        "endTime": 2330,
+        "color": "#318723"
     },
     {
         "title": "Down the Rabbit Hole",
         "dj": "William Main ('23)",
         "days": [6],
         "startTime": 2330,
-        "endTime": 2359
+        "endTime": 2359,
+        "color": "#318723"
     }
 ];
