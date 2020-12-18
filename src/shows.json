@@ -159,7 +159,7 @@ shows = [
         "startTime": 2330,
         "endTime": 2359,
         "color": "#00e600",
-        "image": "jp1.jpg"
+        "image": "JP1.jpg"
     },
     {
         "title": "And A Side of Fries",
@@ -168,7 +168,7 @@ shows = [
         "startTime": 0,
         "endTime": 200,
         "color": "#00e600",
-        "image": "jp1.jpg"
+        "image": "JP1.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -204,7 +204,7 @@ shows = [
         "startTime": 2130,
         "endTime": 2330,
         "color": "#713B97",
-        "image": "ov1.jpg"
+        "image": "OV1.jpg"
      },
     {
         "title": "Doobie Mix",
