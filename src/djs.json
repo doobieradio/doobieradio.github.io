@@ -11,17 +11,17 @@ djs = [
     },
     {
         "id": "MD22",
-        "name": "Morgan Daniels ('22)",
+        "name": "Morgan Daniels (‘22)",
         "bio": "All the songs that evoke feelings that then craft movie scenes in my head and contribute to my main character syndrome. A chaotic mix of good tunes that are guaranteed to make you feel something!"
     },
     {
         "id": "JW22",
-        "name": "Julia Weigman ('22)",
+        "name": "Julia Weigman (‘22)",
         "bio": "I like to talk about whatever I want and play whatever music I want"
     },
     {
         "id": "MM21",
-        "name": "Maxwell Marshall" ('21),
+        "name": "Maxwell Marshall (‘21)",
         "bio": "Here for all your quarintine news, music, and musings, please join my dad and I on our weekly show! Listen to a young-timer and old-timer shoot the news, their own music favorites, and more!"
     }
 ];
