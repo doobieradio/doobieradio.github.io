@@ -120,7 +120,7 @@ shows = [
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [3],
-        "startTime": 0930,
+        "startTime": 1130,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
