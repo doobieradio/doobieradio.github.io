@@ -94,6 +94,24 @@ shows = [
         "dj": "Doobie DJs",
         "days": [2],
         "startTime": 0,
+        "endTime": 1130,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+           "title": "A Whole Bunch of Nothing Show",
+        "dj": "Des Woods",
+        "days": [2],
+        "startTime": 1130,
+        "endTime": 1400,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+          "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [3],
+        "startTime": 1400,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
