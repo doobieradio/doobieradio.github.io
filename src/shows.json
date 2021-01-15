@@ -104,7 +104,7 @@ shows = [
         "days": [2],
         "startTime": 1130,
         "endTime": 1400,
-        "color": "#006699",
+        "color": "#908B87",
         "image": "default.jpg"
     },
     {
@@ -122,7 +122,7 @@ shows = [
         "days": [2],
         "startTime": 1700,
         "endTime": 1800,
-        "color": "#006699",
+        "color": "#908B87",
         "image": "default.jpg"
     },
     {
