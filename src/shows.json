@@ -78,7 +78,7 @@ shows = [
         "startTime": 1530,
         "endTime": 1730,
         "color": "#1E7211",
-        "image/Backgrounds/": "AdamVenrickB.jpeg"
+        "background": "AdamVenrickB.jpeg"
     },
     {
         "title": "Doobie Mix",
