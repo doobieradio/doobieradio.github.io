@@ -69,7 +69,7 @@ shows = [
         "startTime": 0,
         "endTime": 1530,
         "color": "#006699",
-        "image": "default.jpg"
+        "image": "PF1.jpg"
     },
     {
         "title": "Adam's Apple",
@@ -123,7 +123,7 @@ shows = [
         "startTime": 1700,
         "endTime": 1800,
         "color": "#908B87",
-        "image": "default.jpg"
+        "image": "PF1.jpg"
     },
     {
         "title": "Doobie Mix",
