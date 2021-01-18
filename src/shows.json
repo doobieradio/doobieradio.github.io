@@ -24,7 +24,7 @@ shows = [
         "startTime": 1330,
         "endTime": 1530,
         "color": "#E02727",
-        "image": "nc.png"
+        "image": "NinaCosdonB.png"
     },
     {
         "title": "Doobie Mix",
@@ -78,7 +78,7 @@ shows = [
         "startTime": 1530,
         "endTime": 1730,
         "color": "#1E7211",
-        "image": "AV1.jpeg"
+        "image": "AdamVenrickB.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -123,7 +123,7 @@ shows = [
         "startTime": 1700,
         "endTime": 1800,
         "color": "#908B87",
-        "image": "PF1.jpg"
+        "image": "PatrickFinaB.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -150,7 +150,7 @@ shows = [
         "startTime": 0930,
         "endTime": 1130,
         "color": "#D56B1C",
-        "image": "MM1.jpg"
+        "image": "MaxwellMashallB.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -177,7 +177,7 @@ shows = [
         "startTime": 1930,
         "endTime": 2130,
         "color": "#000000",
-        "image": "JW1.jpeg"
+        "image": "JuliaWeigmanB.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -204,7 +204,7 @@ shows = [
         "startTime": 0,
         "endTime": 200,
         "color": "#00e600",
-        "image": "JP1.jpg"
+        "image": "JoshPoeB.jpg"
     },
     {
         "title": "Doobie Mix",
@@ -240,7 +240,7 @@ shows = [
         "startTime": 2130,
         "endTime": 2330,
         "color": "#713B97",
-        "image": "OV1.jpg"
+        "image": "OliviaVrablikB.jpg"
      },
     {
         "title": "Doobie Mix",
