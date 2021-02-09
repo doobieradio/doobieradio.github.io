@@ -317,7 +317,7 @@ shows = [
     {
         "title": "The Show Around the Corner",
         "dj": "Kat Amiet ('23)",
-        "days": [6],
+        "days": [5],
         "startTime": 1130,
         "endTime": 1330,
         "color": "#318723",
