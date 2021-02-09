@@ -1,24 +1,24 @@
 shows = [
     {
-        "title": "Down the Rabbit Hole",
+        "title": "N. Main Street",
         "dj": "William Main ('23)",
         "days": [0],
-        "startTime": 0,
-        "endTime": 200,
-        "color": "#318723",
+        "startTime": 0200,
+        "endTime": 0500,
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [0],
-        "startTime": 200,
+        "startTime": 0500,
         "endTime": 1330,
-        "color": "#006699",
+       "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "Your Midday Existential Crisis",
+         "title": "Your Midday Existential Crisis",
         "dj": "Nina Cosdon ('21)",
         "days": [0],
         "startTime": 1330,
@@ -27,10 +27,19 @@ shows = [
         "image": "NinaCosdonB.png"
     },
     {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
+        "title": "The Basket Mix",
+        "dj": "Barlow Wagner ('22)",
         "days": [0],
         "startTime": 1530,
+        "endTime": 1730,
+        "color": "#E02727",
+        "image": "NinaCosdonB.png"
+    },
+    {
+        "title": "I Let my Fish Choose the Music",
+        "dj": "Matthew Sing ('23)",
+        "days": [0],
+        "startTime": 1730,
         "endTime": 1930,
         "color": "#006699",
         "image": "default.jpg"
@@ -63,28 +72,46 @@ shows = [
         "image": "default.jpg"
     },
     {
-        "title": "Doobie Mix",
+         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 0,
-        "endTime": 1530,
+        "endTime": 0200,
+       "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "The Steve Harvey Radio Hour",
+        "dj": "James Whitney ('22)",
+        "days": [1],
+        "startTime": 0200,
+        "endTime": 0500,
         "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "Adam's Apple",
-        "dj": "Adam Venrick ('21)",
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
         "days": [1],
-        "startTime": 1530,
-        "endTime": 1730,
-        "color": "#1E7211",
-        "image": "AdamVenrickB.jpeg"
+        "startTime": 0500,
+        "endTime": 2130,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "Thats a lot of Damage",
+        "dj": "Will Knoop ('22)",
+        "days": [1],
+        "startTime": 2130,
+        "endTime": 2330,
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [1],
-        "startTime": 1730,
+        "startTime": 2330,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
@@ -112,7 +139,16 @@ shows = [
         "dj": "Doobie DJs",
         "days": [2],
         "startTime": 1400,
-        "endTime": 1700,
+        "endTime": 1530,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "NO HOPE KIDS",
+        "dj": "Alex Hughes ('21)",
+        "days": [2],
+        "startTime": 1530,
+        "endTime": 1730,
         "color": "#006699",
         "image": "default.jpg"
     },
@@ -120,16 +156,34 @@ shows = [
         "title": "Subgenres",
         "dj": "Patrick Fina",
         "days": [2],
-        "startTime": 1700,
-        "endTime": 1800,
+        "startTime": 1730,
+        "endTime": 1830,
         "color": "#908B87",
         "image": "PFB.jpg"
+    },
+    {
+        "title": "Slutty Shark Rodeo Radio ",
+        "dj": "Meredith Ehlers (‘22) and Jack May (‘22)",
+        "days": [2],
+        "startTime": 1830,
+        "endTime": 2130,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "RAW EGGS FOR BREAKFAST",
+        "dj": "Jake Gunther",
+        "days": [2],
+        "startTime": 2130,
+        "endTime": 2300,
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [2],
-        "startTime": 1800,
+        "startTime": 2330,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
@@ -139,143 +193,233 @@ shows = [
         "dj": "Doobie DJs",
         "days": [3],
         "startTime": 0,
+        "endTime": 2359,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [4],
+        "startTime": 0,
+        "endTime": 0930,
+       "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "PM in the AM",
+        "dj": "Patrick Madden ('23)",
+        "days": [4],
+        "startTime": 0930,
+        "endTime": 1130,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "The 616",
+        "dj": "Madie Mendels ('21)",
+        "days": [4],
+        "startTime": 1130,
+        "endTime": 1330,
+        "color": "#000000",
+        "image": "JuliaWeigmanB.jpeg"
+    },
+    {
+        "title": "The Curio Shop",
+        "dj": "Juliet Hurwitz ('22)",
+        "days": [4],
+        "startTime": 1330,
+        "endTime": 1530,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "Heezy's Hangover Cure",
+        "dj": "Rohan Arora ('22)",
+        "days": [4],
+        "startTime": 1530,
+        "endTime": 1730,
+        "color": "#00e600",
+        "image": "JP1.jpg"
+    },
+    {
+        "title": "Chill Vibes with Ken",
+        "dj": "Kenlee Rong ('21)",
+        "days": [4],
+        "startTime": 1730,
+        "endTime": 1930,
+        "color": "#00e600",
+        "image": "JoshPoeB.jpg"
+    },
+    {
+        "title": "FARE ENUF",
+        "dj": "Betsy Wagner",
+        "days": [4],
+        "startTime": 1930,
+        "endTime": 2130,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "The New Music Show",
+        "dj": "Jake Gunther ('22)",
+        "days": [4],
+        "startTime": 2130,
+        "endTime": 2330,
+        "color": "#45C430",
+        "image": "default.jpg"
+    },
+    {
+        "title": "And a Side of Fries",
+        "dj": "Josh Poe ('21)",
+        "days": [4],
+        "startTime": 2330,
+        "endTime": 2459,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "And a Side of Fries",
+        "dj": "Josh Poe ('21)",
+        "days": [5],
+        "startTime": 0,
+        "endTime": 0200,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [5],
+        "startTime": 0200,
+        "endTime": 0730,
+        "color": "#006699",
+        "image": "default.jpg"
+     },
+    {
+        "title": "The Coffee Hour",
+        "dj": "Adam Venrick ('21)",
+        "days": [5],
+        "startTime": 0730,
         "endTime": 0930,
         "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "The Vanimal Show",
-        "dj": "Maxwell Marshall ('21)",
-        "days": [3],
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [5],
         "startTime": 0930,
         "endTime": 1130,
-        "color": "#D56B1C",
-        "image": "MaxwellMashallB.jpg"
-    },
-    {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [3],
-        "startTime": 1130,
-        "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [4],
-        "startTime": 0,
+        "title": "The Show Around the Corner",
+        "dj": "Kat Amiet ('23)",
+        "days": [6],
+        "startTime": 1130,
+        "endTime": 1330,
+        "color": "#318723",
+        "image": "default.jpg"
+          },
+    {
+         "title": "Golden Slumbers",
+        "dj": "Chase Summers ('21)",
+        "days": [5],
+        "startTime": 1330,
+        "endTime": 1530,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "Adam's Apple",
+        "dj": "Adam Venrick ('21)",
+        "days": [5],
+        "startTime": 1530,
+        "endTime": 1730,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "Lego Star Wars Cantina",
+        "dj": "Olivia Vrablik ('22)",
+        "days": [5],
+        "startTime": 1730,
         "endTime": 1930,
         "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "You Should Listen to Me",
-        "dj": "Julia Weigman ('22)",
-        "days": [4],
+         "title": "The Basket Mix",
+        "dj": "Raleigh Goldberg ('22)",
+        "days": [5],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#000000",
-        "image": "JuliaWeigmanB.jpeg"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
-        "title": "Doobie Mix",
+         "title": "Doobie Mix",
         "dj": "Doobie DJs",
-        "days": [4],
+        "days": [5],
         "startTime": 2130,
-        "endTime": 2330,
-        "color": "#006699",
-        "image": "default.jpg"
-    },
-    {
-        "title": "And A Side of Fries",
-        "dj": "Josh Poe ('21)",
-        "days": [4],
-        "startTime": 2330,
         "endTime": 2359,
-        "color": "#00e600",
-        "image": "JP1.jpg"
-    },
-    {
-        "title": "And A Side of Fries",
-        "dj": "Josh Poe ('21)",
-        "days": [5],
-        "startTime": 0,
-        "endTime": 200,
-        "color": "#00e600",
-        "image": "JoshPoeB.jpg"
-    },
-    {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [5],
-        "startTime": 200,
-        "endTime": 730,
         "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "The Coffee Hour",
-        "dj": "Adam Venrick ('21) and Josh Poe ('21)",
-        "days": [5],
-        "startTime": 730,
-        "endTime": 930,
-        "color": "#45C430",
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [6],
+        "startTime": 0,
+        "endTime": 1530,
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "Doobie Mix",
+         "title": "A Mission to Civilize",
+        "dj": "Blythe Dahlem ('23)",
+        "days": [6],
+        "startTime": 1530,
+        "endTime":1730,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "you should listen to me",
+        "dj": "Julia Weigman ('22)",
+        "days": [6],
+        "startTime": 1730,
+        "endTime": 1930,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "Doobie Mix",
         "dj": "Doobie DJs",
-        "days": [5],
-        "startTime": 930,
+        "days": [6],
+        "startTime": 1930,
         "endTime": 2130,
         "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "Lego Star Wars Cantina",
-        "dj": "Olivia Vrablik ('22)",
-        "days": [5],
-        "startTime": 2130,
-        "endTime": 2330,
-        "color": "#713B97",
-        "image": "OliviaVrablikB.jpg"
-     },
-    {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [5],
-        "startTime": 2330,
-        "endTime": 2359,
-        "color": "#006699",
-        "image": "default.jpg"
-     },
-    {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [6],
-        "startTime": 0,
-        "endTime": 2130,
-        "color": "#006699",
-        "image": "default.jpg"
-    },
-    {
-        "title": "N Main Street",
+         "title": "Down the Rabbit Hole",
         "dj": "William Main ('23)",
         "days": [6],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#318723",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "Down the Rabbit Hole",
+         "title": "N. Main Street",
         "dj": "William Main ('23)",
         "days": [6],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#318723",
+        "color": "#006699",
         "image": "default.jpg"
     }
 ];
