@@ -32,7 +32,7 @@ shows = [
         "days": [0],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#006699",
+        "color": "#E02727",
         "image": "NinaCosdonB.png"
     },
     {
@@ -41,7 +41,7 @@ shows = [
         "days": [0],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#633AA5",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -50,7 +50,7 @@ shows = [
         "days": [0],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#006699,
+        "color": "#318723",
         "image": "default.jpg"
     },
     {
@@ -59,7 +59,7 @@ shows = [
         "days": [0],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#E07BC9",
+        "color": "#DE41CF",
         "image": "default.jpg"
     },
     {
@@ -86,7 +86,7 @@ shows = [
         "days": [1],
         "startTime": 0200,
         "endTime": 0500,
-        "color": "#9824C7",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -104,7 +104,7 @@ shows = [
         "days": [1],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#E33737",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -149,7 +149,7 @@ shows = [
         "days": [2],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#EB1010",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -167,7 +167,7 @@ shows = [
         "days": [2],
         "startTime": 1830,
         "endTime": 2130,
-        "color": "#7CC5D1",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -176,7 +176,7 @@ shows = [
         "days": [2],
         "startTime": 2130,
         "endTime": 2300,
-        "color": "#ECF316",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -193,24 +193,6 @@ shows = [
         "dj": "Doobie DJs",
         "days": [3],
         "startTime": 0,
-        "endTime": 1530,
-        "color": "#006699",
-        "image": "default.jpg"
-    },
-    {
-         "title": "Heezy's Hangover Cure",
-        "dj": "Rohan Arora ('22)",
-        "days": [3],
-        "startTime": 1530,
-        "endTime": 1730,
-        "color": "#8933B6",
-        "image": "JP1.jpg"
-        },
-    {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [3],
-        "startTime": 1730,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
@@ -230,7 +212,7 @@ shows = [
         "days": [4],
         "startTime": 0930,
         "endTime": 1130,
-        "color": "#107A41",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -239,7 +221,7 @@ shows = [
         "days": [4],
         "startTime": 1130,
         "endTime": 1330,
-        "color": "#2685C0",
+        "color": "#000000",
         "image": "JuliaWeigmanB.jpeg"
     },
     {
@@ -248,7 +230,7 @@ shows = [
         "days": [4],
         "startTime": 1330,
         "endTime": 1530,
-        "color": "#3DD8C9",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -257,7 +239,7 @@ shows = [
         "days": [4],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#8933B6",
+        "color": "#00e600",
         "image": "JP1.jpg"
     },
     {
@@ -275,7 +257,7 @@ shows = [
         "days": [4],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#1A6D43",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -284,7 +266,7 @@ shows = [
         "days": [4],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#ECF316",
+        "color": "#45C430",
         "image": "default.jpg"
     },
     {
@@ -293,7 +275,7 @@ shows = [
         "days": [4],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#DC60D6",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -302,7 +284,7 @@ shows = [
         "days": [5],
         "startTime": 0,
         "endTime": 0200,
-        "color": "#DC60D6",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -320,7 +302,7 @@ shows = [
         "days": [5],
         "startTime": 0730,
         "endTime": 0930,
-        "color": "#05A144",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -347,7 +329,7 @@ shows = [
         "days": [5],
         "startTime": 1330,
         "endTime": 1530,
-        "color": "#DBA0E1",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -356,7 +338,7 @@ shows = [
         "days": [5],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#05A144",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -365,7 +347,7 @@ shows = [
         "days": [5],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#800D8C",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -401,7 +383,7 @@ shows = [
         "days": [6],
         "startTime": 1530,
         "endTime":1730,
-        "color": "#167635",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -410,7 +392,7 @@ shows = [
         "days": [6],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#000000",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -428,7 +410,7 @@ shows = [
         "days": [6],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#006699,
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
@@ -437,7 +419,7 @@ shows = [
         "days": [6],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#006699,
+        "color": "#006699",
         "image": "default.jpg"
     }
 ];
