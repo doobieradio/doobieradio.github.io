@@ -23,7 +23,7 @@ shows = [
         "days": [0],
         "startTime": 1330,
         "endTime": 1530,
-        "color": "C23F14",
+        "color": "#C23F14",
         "image": "NinaCosdonB.png"
     },
     {
@@ -81,7 +81,7 @@ shows = [
         "image": "default.jpg"
     },
     {
-        "title": "The Steve Harvey Radio Hour",
+        "title": "Super Secret Late Night Extravaganza",
         "dj": "James Whitney ('22)",
         "days": [1],
         "startTime": 0200,
