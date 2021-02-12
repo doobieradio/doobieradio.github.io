@@ -20,8 +20,65 @@ djs = [
         "bio": "I like to talk about whatever I want and play whatever music I want"
     },
     {
-        "id": "MM21",
-        "name": "Maxwell Marshall (‘21)",
-        "bio": "Here for all your quarintine news, music, and musings, please join my dad and I on our weekly show! Listen to a young-timer and old-timer shoot the news, their own music favorites, and more!"
+        "id": "RA22",
+        "name": "Rohan Arora ‘22",
+        "bio": "Rohan Arora, also known by his on-air persona Roheezy loves music. Whether it’s jamming to Grateful Dead inspired psych-pop and telling you all about the obscure Aussie band that made it on his show(how prestigious) or listening to throwback jams and literally just vibing, there is no shortage of chill music and slightly cynical commentary for your ____evenings. Tune in to his show to hear artists he think will absolutely blow your mind and riffs that will live on in your dreams, in a good way, and also all about his life story and problems!(jk lmao)"
+   },
+    {
+         "id": "RG22",
+        "name": "Raleigh Goldberg ('22)",
+        "bio": "Raleigh has always had a fondness for radio and music as a whole. Being born in Miami FL, he grew up around many different cultures and musics which led to a very broad music taste. Raleigh is in the Denison class of 2022 and will seek a leadership position on the doobie in the coming semesters."
+   },
+    {
+          "id": "BD23",
+        "name": "Blythe Dahlem ('23)",
+        "bio": "I'm Blythe, I'm from Louisville, Kentucky studying Economics and planning on minoring in Bluegrass music. I joined the Doobie because I love music and podcasts, and I want to share what I'm interested in with anyone who's willing to listen."
+   },
+    {
+         "id": "PM23",
+        "name": "Patrick Madden ('23)",
+        "bio": "Patrick is a sophomore from Richmond, Virginia, studying English Literature and Creative Writing. His favorite genres are 80s post-disco, indie pop, and new wave. Levitating by Dua Lipa was his top song for 2020 and he is not ashamed by it. He is also obsessed with graphic tees, so contact him if you see any cool ones please."
+   },
+    {
+          "id": "MS23",
+        "name": "Matthew Sing ('23)",
+        "bio": "Matthew is a Sophmore Economics Major. He loves his cats, theatre, and all types of music. He has eaten too many Chicken Avocado sandwiches."
+   },
+    {
+         "id": "JH22",
+        "name": "Juliet Hurwitz ('22)",
+        "bio": "Juliet is a junior from outside of Boston and this is her third semester with the Doobie! When she’s not listening to music, she’s likely taking a nap, writing something new, eating, or watching Netflix."
+   },
+    {
+         "id": "JM22",
+        "name": "Jack May ('22)",
+        "bio": "Jack May is a super chill guy from West Dundee, IL (not Chicago), majoring in English Creative Writing. He enjoys wakeboarding, ebroidery, capillary transfusions, and watercolors. Jack is the brawn, not the brains, behind Slutty Shark Rodeo, and can't wait to spin some tunes in the station with his homegirl Dith!"
+   },
+    {
+          "id": "CS21",
+        "name": "Chase Summers ('21)",
+        "bio": "What's up guys, I'm Chase. I'm a senior from York, Pa. I love exploring new places, keeping life light-hearted and playing some good tunes. My music taste stretches from 70s rock all the way to jazzy rap. Let's get weird!"
+   },
+    {
+           "id": "BW22",
+        "name": "Barlow Wagner ('22)",
+        "bio": "My name is Barlow Wagner and I’m a Junior at Denison majoring in Biology. I’m currently on a pre-med track and enjoy listening to music and finding new sounds that are appealing to me. I find it relaxing to be able to go into the station and listen to good music and share my favorite songs with those who want to listen."
+   },
+    {
+          "id": "KR21",
+        "name": "Kenlee Rong ('21)",
+        "bio": "Chill Vibes with Ken"
+   },
+    {
+           "id": "WK22",
+        "name": "Will Knoop ('22)",
+        "bio": "Theres a chance Will Knoop graduates in 2022, but until then he'll be on streaming on DoobieRadio.com talking about sports and gambling. Listen to his show, Thats A Lot Of Damage, for rants and opinions on the sports world. A thing that he is most excited about at Denison right now is teaming up with Madie Mendels this semester and burning the school to the ground."
+         },
+    {
+          "id": "AH21",
+        "name": "Alex Hughes ('21)",
+        "bio": "Raised on 80s Synth Pop and Indie music, Alex hosts weekly music show “No Hope Kids.” With a name stolen from surf rock band Wavves breakthrough single, Alex plays a variety of Alternative music spanning the late 1970s-present day. Tuning in to No Hope Kids could result in hearing a mix of everything from the Smiths to Black Flag, or who knows, it could just be 2 hours of Sonic Youth."
+   },
+    {
     }
 ];
