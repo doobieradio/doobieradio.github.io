@@ -94,6 +94,24 @@ shows = [
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 0500,
+        "endTime": 1530,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "And a Side of Fries",
+        "dj": "Josh Poe ('21)",
+        "days": [1],
+        "startTime": 1530,
+        "endTime": 7530,
+        "color": "#ED62F1",
+        "image": "default.jpg"
+    },
+    {
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [1],
+        "startTime": 730,
         "endTime": 2130,
         "color": "#006699",
         "image": "default.jpg"
