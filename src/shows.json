@@ -306,28 +306,19 @@ shows = [
         "image": "default.jpg"
     },
     {
-        "title": "And a Side of Fries",
-        "dj": "Josh Poe ('21)",
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
         "days": [4],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#ED62F1",
-        "image": "default.jpg"
-    },
-    {
-         "title": "And a Side of Fries",
-        "dj": "Josh Poe ('21)",
-        "days": [5],
-        "startTime": 0,
-        "endTime": 0200,
-        "color": "#ED62F1",
+        "color": "#006699",
         "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [5],
-        "startTime": 0200,
+        "startTime": 0,
         "endTime": 0730,
         "color": "#006699",
         "image": "default.jpg"
