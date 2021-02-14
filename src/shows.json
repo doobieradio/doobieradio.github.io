@@ -103,7 +103,7 @@ shows = [
         "dj": "Josh Poe ('21)",
         "days": [1],
         "startTime": 1530,
-        "endTime": 7530,
+        "endTime": 1730,
         "color": "#ED62F1",
         "image": "default.jpg"
     },
@@ -111,7 +111,7 @@ shows = [
          "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [1],
-        "startTime": 730,
+        "startTime": 1730,
         "endTime": 2130,
         "color": "#006699",
         "image": "default.jpg"
