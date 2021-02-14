@@ -175,7 +175,7 @@ shows = [
         "dj": "Patrick Fina",
         "days": [2],
         "startTime": 1730,
-        "endTime": 1830,
+        "endTime": 1930,
         "color": "#908B87",
         "image": "PFB.jpg"
     },
@@ -183,7 +183,7 @@ shows = [
         "title": "Slutty Shark Rodeo Radio ",
         "dj": "Meredith Ehlers (‘22) and Jack May (‘22)",
         "days": [2],
-        "startTime": 1830,
+        "startTime": 1930,
         "endTime": 2130,
         "color": "#74C9C2",
         "image": "default.jpg"
