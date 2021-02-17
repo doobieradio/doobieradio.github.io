@@ -5,7 +5,7 @@ shows = [
         "days": [0],
         "startTime": 0200,
         "endTime": 0500,
-        "color": "#006699",
+        "color": "#20BC52",
         "image": "default.jpg"
     },
     {
@@ -23,7 +23,7 @@ shows = [
         "days": [0],
         "startTime": 1330,
         "endTime": 1530,
-        "color": "#E02727",
+        "color": "#C23F14",
         "image": "NinaCosdonB.png"
     },
     {
@@ -32,7 +32,7 @@ shows = [
         "days": [0],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#E02727",
+        "color": "#006699",
         "image": "NinaCosdonB.png"
     },
     {
@@ -41,7 +41,7 @@ shows = [
         "days": [0],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#006699",
+        "color": "#AB45B4",
         "image": "default.jpg"
     },
     {
@@ -50,7 +50,7 @@ shows = [
         "days": [0],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#318723",
+        "color": "#20BC52",
         "image": "default.jpg"
     },
     {
@@ -59,7 +59,7 @@ shows = [
         "days": [0],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#DE41CF",
+        "color": "#D835A6",
         "image": "default.jpg"
     },
     {
@@ -81,12 +81,12 @@ shows = [
         "image": "default.jpg"
     },
     {
-        "title": "The Steve Harvey Radio Hour",
+        "title": "Super Secret Late Night Extravaganza",
         "dj": "James Whitney ('22)",
         "days": [1],
         "startTime": 0200,
         "endTime": 0500,
-        "color": "#006699",
+        "color": "#5D20A5",
         "image": "default.jpg"
     },
     {
@@ -94,6 +94,24 @@ shows = [
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 0500,
+        "endTime": 1530,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "And a Side of Fries",
+        "dj": "Josh Poe ('21)",
+        "days": [1],
+        "startTime": 1530,
+        "endTime": 1730,
+        "color": "#ED62F1",
+        "image": "default.jpg"
+    },
+    {
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [1],
+        "startTime": 1730,
         "endTime": 2130,
         "color": "#006699",
         "image": "default.jpg"
@@ -104,7 +122,7 @@ shows = [
         "days": [1],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#006699",
+        "color": "#B72A18",
         "image": "default.jpg"
     },
     {
@@ -149,7 +167,7 @@ shows = [
         "days": [2],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#006699",
+        "color": "#D64A1B",
         "image": "default.jpg"
     },
     {
@@ -157,7 +175,7 @@ shows = [
         "dj": "Patrick Fina",
         "days": [2],
         "startTime": 1730,
-        "endTime": 1830,
+        "endTime": 1930,
         "color": "#908B87",
         "image": "PFB.jpg"
     },
@@ -165,9 +183,9 @@ shows = [
         "title": "Slutty Shark Rodeo Radio ",
         "dj": "Meredith Ehlers (‘22) and Jack May (‘22)",
         "days": [2],
-        "startTime": 1830,
+        "startTime": 1930,
         "endTime": 2130,
-        "color": "#006699",
+        "color": "#74C9C2",
         "image": "default.jpg"
     },
     {
@@ -176,7 +194,7 @@ shows = [
         "days": [2],
         "startTime": 2130,
         "endTime": 2300,
-        "color": "#006699",
+        "color": "#D8E147",
         "image": "default.jpg"
     },
     {
@@ -193,6 +211,24 @@ shows = [
         "dj": "Doobie DJs",
         "days": [3],
         "startTime": 0,
+        "endTime": 1530,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+          "title": "Heezy's Hangover Cure",
+        "dj": "Rohan Arora ('22)",
+        "days": [3],
+        "startTime": 1530,
+        "endTime": 1730,
+        "color": "#8534D0",
+        "image": "JP1.jpg"
+    },
+    {
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [3],
+        "startTime": 1730,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
@@ -212,7 +248,7 @@ shows = [
         "days": [4],
         "startTime": 0930,
         "endTime": 1130,
-        "color": "#006699",
+        "color": "#086C22",
         "image": "default.jpg"
     },
     {
@@ -221,7 +257,7 @@ shows = [
         "days": [4],
         "startTime": 1130,
         "endTime": 1330,
-        "color": "#000000",
+        "color": "#1E65A5",
         "image": "JuliaWeigmanB.jpeg"
     },
     {
@@ -230,7 +266,7 @@ shows = [
         "days": [4],
         "startTime": 1330,
         "endTime": 1530,
-        "color": "#006699",
+        "color": "#20C4B7",
         "image": "default.jpg"
     },
     {
@@ -239,7 +275,7 @@ shows = [
         "days": [4],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#00e600",
+        "color": "#8534D0",
         "image": "JP1.jpg"
     },
     {
@@ -257,7 +293,7 @@ shows = [
         "days": [4],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#006699",
+        "color": "#8534D0",
         "image": "default.jpg"
     },
     {
@@ -270,8 +306,8 @@ shows = [
         "image": "default.jpg"
     },
     {
-        "title": "And a Side of Fries",
-        "dj": "Josh Poe ('21)",
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
         "days": [4],
         "startTime": 2330,
         "endTime": 2359,
@@ -279,19 +315,10 @@ shows = [
         "image": "default.jpg"
     },
     {
-         "title": "And a Side of Fries",
-        "dj": "Josh Poe ('21)",
-        "days": [5],
-        "startTime": 0,
-        "endTime": 0200,
-        "color": "#006699",
-        "image": "default.jpg"
-    },
-    {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [5],
-        "startTime": 0200,
+        "startTime": 0,
         "endTime": 0730,
         "color": "#006699",
         "image": "default.jpg"
@@ -302,7 +329,7 @@ shows = [
         "days": [5],
         "startTime": 0730,
         "endTime": 0930,
-        "color": "#006699",
+        "color": "#0D9318",
         "image": "default.jpg"
     },
     {
@@ -329,7 +356,7 @@ shows = [
         "days": [5],
         "startTime": 1330,
         "endTime": 1530,
-        "color": "#006699",
+        "color": "#C5A6DF",
         "image": "default.jpg"
     },
     {
@@ -338,7 +365,7 @@ shows = [
         "days": [5],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#006699",
+        "color": "#0D9318",
         "image": "default.jpg"
     },
     {
@@ -347,7 +374,7 @@ shows = [
         "days": [5],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#006699",
+        "color": "#5A1298",
         "image": "default.jpg"
     },
     {
@@ -383,7 +410,7 @@ shows = [
         "days": [6],
         "startTime": 1530,
         "endTime":1730,
-        "color": "#006699",
+        "color": "#2CA051",
         "image": "default.jpg"
     },
     {
@@ -392,7 +419,7 @@ shows = [
         "days": [6],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#006699",
+        "color": "#000000",
         "image": "default.jpg"
     },
     {
@@ -410,7 +437,7 @@ shows = [
         "days": [6],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#006699",
+        "color": "#20BC52",
         "image": "default.jpg"
     },
     {
@@ -419,7 +446,7 @@ shows = [
         "days": [6],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#006699",
+        "color": "#20BC52",
         "image": "default.jpg"
     }
 ];
