@@ -80,15 +80,8 @@ function updateShows() {
 function showElement(show) {
     var node = document.createElement("div");
     node.setAttribute("class", "p-2 schedule-show");
-    node.setAttribute("style", "height: " + (show.endTime - show.startTime) / 3 + "px; background: " + (show.color === undefined ? '#007BFF' : show.color)); //supports IE?
+    node.setAttribute("style", "height: 60px; background: " + (show.color === undefined ? '#007BFF' : show.color)); //supports IE?
     node.textContent = show.title + "\n" + show.dj + "\n" + timeIntToStr(show.startTime) + " - " + timeIntToStr(show.endTime) + "";
-    return node;
-}
-
-function spacerElement(interval) {
-    var node = document.createElement("div");
-    node.setAttribute("class", "schedule-show bg-secondary");
-    node.setAttribute("style", "height: " + interval / 3 + "px;"); //supports IE?
     return node;
 }
 

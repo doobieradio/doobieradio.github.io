@@ -150,21 +150,8 @@
             days.forEach(function(dayElem) {
                 var day = parseInt(dayElem.getAttribute("data-day"));
                 var showsForDay = getSortedShowsForDay(day);
-                var lastShow = showsForDay[showsForDay.length-1];
-                for(var i = 0; i < showsForDay.length; i++) {
-                    var show = showsForDay[i];
-                    if(i == 0) {
-                        dayElem.appendChild(spacerElement(show.startTime));
-                    } else {
-                        var prevShow = showsForDay[i-1];
-                        if(show.startTime - prevShow.endTime)
-                            dayElem.appendChild(spacerElement(show.startTime - prevShow.endTime));
-                    }
-                    dayElem.appendChild(showElement(show));
-                }
-                if(lastShow.endTime != 2359) {
-                    dayElem.appendChild(spacerElement(2400 - lastShow.endTime));
-                }
+                for(var i = 0; i < showsForDay.length; i++)
+                    dayElem.appendChild(showElement(showsForDay[i]));
             });
 
             updateShows();
