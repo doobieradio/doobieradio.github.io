@@ -117,6 +117,24 @@ shows = [
         "image": "default.jpg"
     },
     {
+         "title": "The Steve Harvey Bluegrass Hour",
+        "dj": "James Whitney ('22)",
+        "days": [1],
+        "startTime": 2330,
+        "endTime": 2359,
+        "color": "#633481",
+        "image": "JamesWhitneyB.jpg"
+    },
+    {
+        "title": "The Steve Harvey Bluegrass Hour",
+        "dj": "James Whitney ('22)",
+        "days": [1],
+        "startTime": 0,
+        "endTime": 0200,
+        "color": "#633481",
+        "image": "JamesWhitneyB.jpg"
+    },
+    {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [1],
@@ -189,28 +207,19 @@ shows = [
         "image": "JakeGuntherB"
     },
     {
-        "title": "The Steve Harvey Bluegrass Hour",
-        "dj": "James Whitney ('22)",
+        "title": "Doobie Mix",
+        "dj": "Doobie DJs",
         "days": [2],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#633481",
-        "image": "JamesWhitneyB.jpg"
-    },
-    {
-        "title": "The Steve Harvey Bluegrass Hour",
-        "dj": "James Whitney ('22)",
-        "days": [3],
-        "startTime": 0,
-        "endTime": 0200,
-        "color": "#633481",
-        "image": "JamesWhitneyB.jpg"
+        "color": "#006699",
+        "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [3],
-        "startTime": 0200,
+        "startTime": 0,
         "endTime": 1530,
         "color": "#006699",
         "image": "default.jpg"
