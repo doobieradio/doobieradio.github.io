@@ -73,11 +73,16 @@ djs = [
            "id": "WK22",
         "name": "Will Knoop ('22)",
         "bio": "Theres a chance Will Knoop graduates in 2022, but until then he'll be on streaming on DoobieRadio.com talking about sports and gambling. Listen to his show, Thats A Lot Of Damage, for rants and opinions on the sports world. A thing that he is most excited about at Denison right now is teaming up with Madie Mendels this semester and burning the school to the ground."
-         },
+    },
     {
           "id": "AH21",
         "name": "Alex Hughes ('21)",
         "bio": "Raised on 80s Synth Pop and Indie music, Alex hosts weekly music show “No Hope Kids.” With a name stolen from surf rock band Wavves breakthrough single, Alex plays a variety of Alternative music spanning the late 1970s-present day. Tuning in to No Hope Kids could result in hearing a mix of everything from the Smiths to Black Flag, or who knows, it could just be 2 hours of Sonic Youth."
+   },
+    {
+           "id": "PB22",
+        "name": "Poppy Boone ('22)",
+        "bio": "Poppy is an econ major from Los Angeles, California. She previously attended Whitman College and ran her show there at KWCW 90.5 Walla Walla. She is super excited to be at Denison and can't wait to continue Punk Goes Poppy here!"
    },
     {
     }
