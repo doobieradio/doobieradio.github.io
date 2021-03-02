@@ -20,6 +20,11 @@ djs = [
         "bio": "I like to talk about whatever I want and play whatever music I want"
      },
     {
+        "id": "DWS",
+        "name": "Des Woods (staff)",
+        "bio": "Bio coming soon!"
+     },
+    {
         "id": "KC23",
         "name": "Kat Colvin (‘23)",
         "bio": "Bio coming soon!"
