@@ -189,19 +189,28 @@ shows = [
         "image": "JakeGuntherB"
     },
     {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
+        "title": "The Steve Harvey Radio Hour",
+        "dj": "James Whitney ('22)",
         "days": [2],
         "startTime": 2330,
         "endTime": 2359,
-        "color": "#006699",
-        "image": "default.jpg"
+        "color": "#633481",
+        "image": "JamesWhitneyB.jpg"
+    },
+    {
+        "title": "The Steve Harvey Radio Hour",
+        "dj": "James Whitney ('22)",
+        "days": [3],
+        "startTime": 0,
+        "endTime": 0200,
+        "color": "#633481",
+        "image": "JamesWhitneyB.jpg"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [3],
-        "startTime": 0,
+        "startTime": 0200,
         "endTime": 1530,
         "color": "#006699",
         "image": "default.jpg"
@@ -339,7 +348,7 @@ shows = [
         "startTime": 1330,
         "endTime": 1530,
         "color": "#C5A6DF",
-        "image": "default.jpg"
+        "image": "ChaseSummersB.JPG"
     },
     {
          "title": "Adam's Apple",
