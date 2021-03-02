@@ -128,7 +128,7 @@ shows = [
     {
         "title": "The Steve Harvey Bluegrass Hour",
         "dj": "James Whitney ('22)",
-        "days": [1],
+        "days": [2],
         "startTime": 0,
         "endTime": 0200,
         "color": "#633481",
@@ -138,7 +138,7 @@ shows = [
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [1],
-        "startTime": 2330,
+        "startTime": 0200,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
