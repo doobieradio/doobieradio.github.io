@@ -6,7 +6,7 @@ shows = [
         "startTime": 0200,
         "endTime": 0500,
         "color": "#20BC52",
-        "image": "default.jpg"
+        "image": "WilliamMainB.jpeg"
     },
     {
         "title": "Doobie Mix",
@@ -33,7 +33,7 @@ shows = [
         "startTime": 1530,
         "endTime": 1730,
         "color": "#006699",
-        "image": "NinaCosdonB.png"
+        "image": "BarlowWagnerB.jpeg"
     },
     {
         "title": "I Let my Fish Choose the Music",
@@ -51,7 +51,7 @@ shows = [
         "startTime": 1930,
         "endTime": 2130,
         "color": "#20BC52",
-        "image": "default.jpg"
+        "image": "WilliamMainB.jpeg"
     },
     {
         "title": "Whatta Feelin",
@@ -177,7 +177,7 @@ shows = [
         "startTime": 1930,
         "endTime": 2130,
         "color": "#74C9C2",
-        "image": "default.jpg"
+        "image": "JackMayMeredithEhlersB"
     },
     {
         "title": "RAW EGGS FOR BREAKFAST",
@@ -186,7 +186,7 @@ shows = [
         "startTime": 2130,
         "endTime": 2300,
         "color": "#D8E147",
-        "image": "default.jpg"
+        "image": "JakeGuntherB"
     },
     {
         "title": "Doobie Mix",
@@ -213,7 +213,7 @@ shows = [
         "startTime": 1530,
         "endTime": 1730,
         "color": "#8534D0",
-        "image": "JP1.jpg"
+        "image": "RohanAroraB"
     },
     {
          "title": "Doobie Mix",
@@ -249,7 +249,7 @@ shows = [
         "startTime": 1130,
         "endTime": 1330,
         "color": "#1E65A5",
-        "image": "JuliaWeigmanB.jpeg"
+        "image": "MadieMendelsB.JPG"
     },
     {
         "title": "The Curio Shop",
@@ -258,7 +258,7 @@ shows = [
         "startTime": 1330,
         "endTime": 1530,
         "color": "#20C4B7",
-        "image": "default.jpg"
+        "image": "JulietHurwitzB.jpeg"
     },
     {
         "title": "Heezy's Hangover Cure",
@@ -267,7 +267,7 @@ shows = [
         "startTime": 1530,
         "endTime": 1730,
         "color": "#8534D0",
-        "image": "JP1.jpg"
+        "image": "RohanAroraB.jpeg"
     },
     {
         "title": "Chill Vibes with Ken",
@@ -285,7 +285,7 @@ shows = [
         "startTime": 1930,
         "endTime": 2330,
         "color": "#8534D0",
-        "image": "default.jpg"
+        "image": "BetsyWagnerB.HEIC"
     },
     {
          "title": "Doobie Mix",
@@ -357,7 +357,7 @@ shows = [
         "startTime": 1730,
         "endTime": 1930,
         "color": "#5A1298",
-        "image": "default.jpg"
+        "image": "OliviaVrablikB.jpg"
     },
     {
          "title": "The Basket Mix",
@@ -402,7 +402,7 @@ shows = [
         "startTime": 1530,
         "endTime":1730,
         "color": "#2CA051",
-        "image": "default.jpg"
+        "image": "BlytheDahlemB.jpg"
     },
     {
          "title": "you should listen to me",
@@ -411,7 +411,7 @@ shows = [
         "startTime": 1730,
         "endTime": 1930,
         "color": "#000000",
-        "image": "default.jpg"
+        "image": "JuliaWeigmanB.jpeg"
     },
     {
          "title": "Doobie Mix",
@@ -429,7 +429,7 @@ shows = [
         "startTime": 2130,
         "endTime": 2330,
         "color": "#20BC52",
-        "image": "default.jpg"
+        "image": "WilliamMainB.jpeg"
     },
     {
          "title": "N. Main Street",
@@ -438,6 +438,6 @@ shows = [
         "startTime": 2330,
         "endTime": 2359,
         "color": "#20BC52",
-        "image": "default.jpg"
+        "image": "WilliamMainB.jpeg"
     }
 ];
