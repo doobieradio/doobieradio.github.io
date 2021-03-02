@@ -283,17 +283,8 @@ shows = [
         "dj": "Betsy Wagner",
         "days": [4],
         "startTime": 1930,
-        "endTime": 2130,
-        "color": "#8534D0",
-        "image": "default.jpg"
-    },
-    {
-        "title": "The New Music Show",
-        "dj": "Jake Gunther ('22)",
-        "days": [4],
-        "startTime": 2130,
         "endTime": 2330,
-        "color": "#45C430",
+        "color": "#8534D0",
         "image": "default.jpg"
     },
     {
@@ -378,10 +369,19 @@ shows = [
         "image": "default.jpg"
     },
     {
+          "title": "The New Music Show",
+        "dj": "Jake Gunther ('22)",
+        "days": [5],
+        "startTime": 2130,
+        "endTime": 2330,
+        "color": "#45C430",
+        "image": "default.jpg"
+    },
+    {
          "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [5],
-        "startTime": 2130,
+        "startTime": 2330,
         "endTime": 2359,
         "color": "#006699",
         "image": "default.jpg"
