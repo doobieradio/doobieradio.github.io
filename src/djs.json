@@ -18,6 +18,11 @@ djs = [
         "id": "JW22",
         "name": "Julia Weigman (‘22)",
         "bio": "I like to talk about whatever I want and play whatever music I want"
+     },
+    {
+        "id": "JH22",
+        "name": "Juliet Hurwitz (‘22)",
+        "bio": "Juliet is a junior from outside of Boston and this is her third semester with the Doobie! When she’s not listening to music, she’s likely taking a nap, writing something new, eating, or watching Netflix.Her show The Curio Shop features selections from her Spotify’s Discover Weekly playlists, deep cuts, and anything that’s more unknown to the general public. If a new favorite song’s what you’re after, tune in; she hopes you find what you’re looking for."
     },
     {
         "id": "RA22",
@@ -38,6 +43,7 @@ djs = [
          "id": "PM23",
         "name": "Patrick Madden ('23)",
         "bio": "Patrick is a sophomore from Richmond, Virginia, studying English Literature and Creative Writing. His favorite genres are 80s post-disco, indie pop, and new wave. Levitating by Dua Lipa was his top song for 2020 and he is not ashamed by it. He is also obsessed with graphic tees, so contact him if you see any cool ones please."
+        
    },
     {
           "id": "MS23",
