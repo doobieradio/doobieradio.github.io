@@ -76,26 +76,17 @@ shows = [
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 0,
-        "endTime": 0200,
+        "endTime": 1330,
        "color": "#006699",
         "image": "default.jpg"
     },
     {
-        "title": "Super Secret Late Night Extravaganza",
-        "dj": "James Whitney ('22)",
+        "title": "Punk Goes Poppy",
+        "dj": "Poppy Boone",
         "days": [1],
-        "startTime": 0200,
-        "endTime": 0500,
-        "color": "#5D20A5",
-        "image": "default.jpg"
-    },
-    {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [1],
-        "startTime": 0500,
+        "startTime": 1330,
         "endTime": 1530,
-        "color": "#006699",
+        "color": "#F05CE9",
         "image": "default.jpg"
     },
     {
