@@ -301,12 +301,21 @@ shows = [
         "dj": "Betsy Wagner",
         "days": [4],
         "startTime": 1930,
-        "endTime": 2330,
+        "endTime": 2130,
         "color": "#8534D0",
         "image": "BetsyWagnerB.HEIC"
     },
     {
-         "title": "Doobie Mix",
+         "title": "T&R Thursday Night Radio",
+        "dj": "Josh Poe ('21)",
+        "days": [4],
+        "startTime": 2130,
+        "endTime": 2330,
+        "color": "#ED62F1",
+        "image": "default.jpg"
+    },
+    {
+          "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [4],
         "startTime": 2330,
