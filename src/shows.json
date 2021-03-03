@@ -139,15 +139,6 @@ shows = [
         "dj": "Doobie DJs",
         "days": [2],
         "startTime": 0200,
-        "endTime": 2359,
-        "color": "#006699",
-        "image": "default.jpg"
-    },
-    {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
-        "days": [2],
-        "startTime": 0,
         "endTime": 1130,
         "color": "#006699",
         "image": "default.jpg"
