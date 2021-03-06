@@ -211,6 +211,24 @@ shows = [
         "dj": "Doobie DJs",
         "days": [3],
         "startTime": 0,
+        "endTime": 1130,
+        "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "The Block",
+        "dj": "Jennifer Clancey ('23)",
+        "days": [3],
+        "startTime": 1130,
+        "endTime": 1330,
+        "color": "#E8F75D",
+        "image": "JenniferClanceyB.jpg"
+    },
+    {
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [3],
+        "startTime": 1330,
         "endTime": 1530,
         "color": "#006699",
         "image": "default.jpg"
