@@ -81,8 +81,8 @@ shows = [
         "image": "default.jpg"
     },
     {
-         "title": "The Thursday Night Philosophy Podcast",
-        "dj": "James Whitney('22), Chase Summers('21)",
+         "title": "Thursday Night Philosophy Podcast",
+        "dj": "James Whitney ('22), Chase Summers ('21)",
         "days": [1],
         "startTime": 0130,
         "endTime": 0330,
