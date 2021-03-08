@@ -86,7 +86,7 @@ shows = [
         "days": [1],
         "startTime": 0130,
         "endTime": 0330,
-       "color": "#F5F5DC",
+       "color": "#ac9362",
         "image": "JWCSB.jpg"
     },
     {
