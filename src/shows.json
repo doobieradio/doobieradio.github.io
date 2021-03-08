@@ -72,17 +72,35 @@ shows = [
         "image": "default.jpg"
     },
     {
-         "title": "Doobie Mix",
+          "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [1],
         "startTime": 0,
+        "endTime": 0130,
+       "color": "#006699",
+        "image": "default.jpg"
+    },
+    {
+         "title": "The Thursday Night Philosophy Podcast",
+        "dj": "James Whitney ('22), Chase Summers ('21)",
+        "days": [1],
+        "startTime": 0130,
+        "endTime": 0330,
+       "color": "#F5F5DC",
+        "image": "JWCSB.jpg"
+    },
+    {
+         "title": "Doobie Mix",
+        "dj": "Doobie DJs",
+        "days": [1],
+        "startTime": 0330,
         "endTime": 1330,
        "color": "#006699",
         "image": "default.jpg"
     },
     {
         "title": "Punk Goes Poppy",
-        "dj": "Poppy Boone",
+        "dj": "Poppy Boone ('22)",
         "days": [1],
         "startTime": 1330,
         "endTime": 1530,
