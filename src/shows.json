@@ -18,7 +18,7 @@ shows = [
         "image": "default.jpg"
     },
     {
-         "title": "Your Midday Existential Crisis",
+        "title": "Your Midday Existential Crisis",
         "dj": "Nina Cosdon ('21)",
         "days": [0],
         "startTime": 1330,
