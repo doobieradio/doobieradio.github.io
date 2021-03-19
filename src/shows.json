@@ -399,7 +399,7 @@ shows = [
         "title": "Adam's Apple",
         "dj": "Adam Venrick ('21)",
         "days": [5],
-        "startTime": 1530,
+        "startTime":1530,
         "endTime": 1730,
         "color": "#0D9318",
         "image": "default.jpg"
