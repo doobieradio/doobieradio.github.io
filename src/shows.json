@@ -117,13 +117,13 @@ shows = [
         "image": "JoshPoeB.jpg"
     },
     {
-         "title": "Doobie Mix",
-        "dj": "Doobie DJs",
+         "title": "Worm Dreams",
+        "dj": "Juliet Hurwitz",
         "days": [1],
         "startTime": 1730,
         "endTime": 2130,
-        "color": "#006699",
-        "image": "default.jpg"
+        "color": "#20C4B7",
+        "image": "JulietHurwitzB.jpeg"
     },
     {
         "title": "Thats a lot of Damage",
