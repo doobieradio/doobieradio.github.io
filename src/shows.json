@@ -274,7 +274,25 @@ shows = [
         "dj": "Doobie DJs",
         "days": [3],
         "startTime": 1730,
+        "endTime": 2230,
+        "color": "#006699",
+        "image": "CS2B.jpg"
+    },
+    {
+         "title": "Night Owl",
+        "dj": "Chase Summers",
+        "days": [3],
+        "startTime": 2230,
         "endTime": 2359,
+        "color": "#C5A6DF",
+        "image": "CS2b.jpg"
+    },
+    {
+         "title": "Night Owl",
+        "dj": "Chase Summers",
+        "days": [4],
+        "startTime": 2359,
+        "endTime": 0130,
         "color": "#006699",
         "image": "default.jpg"
     },
@@ -282,7 +300,7 @@ shows = [
          "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [4],
-        "startTime": 0,
+        "startTime": 0130,
         "endTime": 0930,
        "color": "#006699",
         "image": "default.jpg"
