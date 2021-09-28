@@ -14,7 +14,7 @@ shows = [
         "days": [0],
         "startTime": 1330,
         "endTime": 1530,
-       "color": "#006699",
+       "color": "#2145C8",
         "image": "default.jpg"
     },
     {
@@ -23,7 +23,7 @@ shows = [
         "days": [0],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#C23F14",
+        "color": "#31A643",
         "image": "NinaCosdonB.png"
     },
     {
@@ -32,7 +32,7 @@ shows = [
         "days": [0],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#006699",
+        "color": "#2E983A",
         "image": "BarlowWagnerB.jpeg"
     },
     {
@@ -41,7 +41,7 @@ shows = [
         "days": [0],
         "startTime": 1930,
         "endTime": 2100,
-        "color": "#AB45B4",
+        "color": "#C8A2C8",
         "image": "default.jpg"
     },
     {
@@ -104,7 +104,7 @@ shows = [
         "days": [1],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#F779F1",
+        "color": "#28BBCF",
         "image": "default.jpg"
     },
     {
@@ -131,7 +131,7 @@ shows = [
         "days": [1],
         "startTime": 0930,
         "endTime": 1130,
-        "color": "#141480",
+        "color": "#0FB9C1",
         "image": "JulietHurwitzB.jpeg"
     },
     {
@@ -167,7 +167,7 @@ shows = [
         "days": [2],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#006699",
+        "color": "#CCCCFF",
         "image": "default.jpg"
     },
     {
@@ -185,7 +185,7 @@ shows = [
         "days": [2],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#006699",
+        "color": "#008080",
         "image": "default.jpg"
     },
     {
@@ -212,7 +212,7 @@ shows = [
         "days": [3],
         "startTime": 1130,
         "endTime": 1330,
-        "color": "#74C9C2",
+        "color": "#E33434",
         "image": "JackMayMeredithEhlersB.jpg"
     },
     {
@@ -230,12 +230,12 @@ shows = [
         "days": [3],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#006699",
+        "color": "#87CEEB",
         "image": "default.jpg"
     },
     {
-        "title": "And a Side of Fries",
-        "dj": "Josh Poe ('22)",
+        "title": "Eitan's Show",
+        "dj": "Eitan Silver ('24)",
         "days": [3],
         "startTime": 1730,
         "endTime": 1930,
@@ -243,28 +243,28 @@ shows = [
         "image": "default.jpg"
     },
     {
-         "title": "The Show With The Ghost",
+        "title": "The Show With The Ghost",
         "dj": "Addy Pittenger ('24)",
         "days": [3],
         "startTime": 1930,
         "endTime": 1330,
-        "color": "#E1EB83",
+        "color": "#335EFF",
         "image": "JenniferClanceyB.jpg"
     },
     {
          "title": "The Curio Shop",
         "dj": "Juliet Hurwitz ('22)",
         "days": [3],
-        "startTime": 1330,
-        "endTime": 1530,
-        "color": "#006699",
+        "startTime": 2130,
+        "endTime": 2330,
+        "color": "#30D5C8",
         "image": "default.jpg"
     },
     {
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [3],
-        "startTime": 1530,
+        "startTime": 2330,
         "endTime": 2359,
         "color": "#006699",
         "image": "CS2B.jpg"
@@ -284,7 +284,7 @@ shows = [
         "days": [4],
         "startTime": 0930,
         "endTime": 1130,
-        "color": "#C5A6DF",
+        "color": "#FF0303",
         "image": "CS2b.jpg"
     },
     {
@@ -293,7 +293,7 @@ shows = [
         "days": [4],
         "startTime": 1130,
         "endTime": 1330,
-        "color": "#006699",
+        "color": "#F735E0",
         "image": "default.jpg"
     },
     {
@@ -311,7 +311,7 @@ shows = [
         "days": [4],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#086C22",
+        "color": "#76276D",
         "image": "default.jpg"
     },
     {
@@ -320,7 +320,7 @@ shows = [
         "days": [4],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#1E65A5",
+        "color": "#FFC0CB",
         "image": "MadieMendelsB.JPG"
     },
     {
@@ -329,7 +329,7 @@ shows = [
         "days": [4],
         "startTime": 1930,
         "endTime": 1230,
-        "color": "#20C4B7",
+        "color": "#B2CF4D",
         "image": "JulietHurwitzB.jpeg"
     },
     {
@@ -338,7 +338,7 @@ shows = [
         "days": [4],
         "startTime": 2130,
         "endTime": 2330,
-        "color": "#8534D0",
+        "color": "#600FB7",
         "image": "RohanAroraB.jpeg"
     },
     {
@@ -360,7 +360,7 @@ shows = [
         "image": "default.jpg"
     },
     {
-          "title": "Jame's Show",
+          "title": "Electric",
         "dj": "James Mahaney ('22)",
         "days": [5],
         "startTime": 0930,
@@ -392,7 +392,7 @@ shows = [
         "days": [5],
         "startTime": 1530,
         "endTime": 1730,
-        "color": "#0D9318",
+        "color": "#000000",
         "image": "default.jpg"
     },
     {
@@ -401,7 +401,7 @@ shows = [
         "days": [5],
         "startTime": 1730,
         "endTime": 1930,
-        "color": "#006699",
+        "color": "#9528CF",
         "image": "default.jpg"
     },
     {
@@ -410,7 +410,7 @@ shows = [
         "days": [5],
         "startTime": 1930,
         "endTime": 2130,
-        "color": "#318723",
+        "color": "#A91D1D",
         "image": "default.jpg"
           },
     {
