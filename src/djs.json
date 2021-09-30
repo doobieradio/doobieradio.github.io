@@ -1,10 +1,20 @@
 djs = [
     {
-        "id": "NC21",
-        "name": "Nina Cosdon (‘21)",
-        "bio": "Do you ever think about how we’re all going to die? Nina does all the time, and she’s channeled her existential crises into a radio show for your listening pleasure. From climate change to crooked politicians to a zombie apocalypse, Your Midday Existential Crisis discusses any and all doomsday predictions (accompanied by themed music, of course). If you would like to come on the show and/or give your theory of how the world will end, email Nina at cosdon_n1@denison.edu"
+        "id": "AP24",
+        "name": "Addy Pittenger (‘24)",
+        "bio": "Addy is a sophomore studying International and Environmental Studies from the great corn state of Ohio. She is the host of "The Show With a Ghost" along with the ghost of her now-in-Italy-friend, V (we miss ya, V!). She enjoys all genres of music including, but not limited to the iconic phases we all went through at some point in our lives such as pop punk, 2014 tumblr, boy bands, indie, etc. Stay tuned for whatever she has to play along with some thought-provoking commentary from whoever decides to stop in the booth and say "your music taste SUCKS.""
+    },
+     {
+        "id": "AF22",
+        "name": "Amanda Funk (‘22)",
+        "bio": "Hi! I'm Amanda, I'm a senior political science major and french minor from Evergreen, Colorado. Super excited for my last year on campus and to play some great tunes for everyone."
     },
     {
+        "id": "BW22",
+        "name": "Barlow Wagner (‘22)",
+        "bio": "My name is Barlow Wagner. I am a Senior Studying Biology here at Denison. I have a special interest in finding new sounds and exploring different genres of music. I especially enjoy going on the radio and just playing music as if I'm the only one listening."
+    },
+     {
         "id": "WM23",
         "name": "William Main (‘23)",
         "bio": "The Undercard is a podcast that discusses news in the world of pro wrestling as well as other combat sports. Features opinions on incidents, reviews of PPVs and match predictions. Down the Rabbit Hole is a Music show featuring psychedelic and surreal music interspersed with comedy segments involving the host trying to explain what life is like in the surreal Rabbit Hole.N. Main Street is a talk show in the vain of Eric Andre or Between two ferns, involving an apathetic and cynical host asking a guest questions about their life."
@@ -15,19 +25,39 @@ djs = [
         "bio": "All the songs that evoke feelings that then craft movie scenes in my head and contribute to my main character syndrome. A chaotic mix of good tunes that are guaranteed to make you feel something!"
     },
     {
+        "id": "BD23",
+        "name": "Blythe Dahlem (‘23)",
+        "bio": "I’m a musician/member of the American Roots Ensemble from Louisville, KY majoring in Economics and American Roots music (with a minor in online poker). I write for the bullsheet as well so some people think I’m funny sometimes!"
+    },
+     {
+        "id": "CB24",
+        "name": "Colleen Boyle (‘24)",
+        "bio": "Hi I'm Colleen, I am a sophomore from Concord Massachusetts. I am double majoring in Communications and Psychology and I am considering a Narrative Journalism concentration. I love all types of music from Indie to Rock to Show Tunes to Jazzy stuff. I love Mexican food, I could eat a burrito every day for the rest of my life and never be upset. If we're being honest, I think eclairs are a little underrated. I want to leave society someday and live in the middle of Montana with horses but first I must compete on the show survivor."
+     },
+    {
+        "id": "EW22",
+        "name": "Emily Waters (‘22)",
+        "bio": "emily is a senior studying english and music. it is her first semester with doobie and she hopes to fill her show with a little music and some talk all about love- anywhere she can find it. if you also love love, you can tune into her show "love talk" :-)"
+     },
+      {
         "id": "JW22",
-        "name": "Julia Weigman (‘22)",
-        "bio": "I like to talk about whatever I want and play whatever music I want"
+        "name": "James Whitney (‘22)",
+        "bio": "James Whitney is back on campus and playing neat music on his new show again"
      },
     {
-        "id": "DWS",
-        "name": "Des Woods (staff)",
-        "bio": "Bio coming soon!"
+        "id": "JQ24",
+        "name": "Janine Quigley (‘24)",
+        "bio": ""The Twilight Zone" is a casual radio show featuring songs i'm currently obsessed with, or i'm either featuring a playlist of mine that i think fits a certain ~aesthetic~. "The Twilight Zone" is also supplemented with stellar commentary from my dazzling personality, and on some days there will be a +1!"
      },
     {
-        "id": "KC23",
-        "name": "Kat Colvin (‘23)",
-        "bio": "Bio coming soon!"
+        "id": "JDSB22",
+        "name": "JD Sharp and Sarah Barney ('22)",
+        "bio": "The Sharp Show (and Sarah) is a variety show of two best friends. The friendship involves punny insults from JD and throwing pencils at JD. We laugh, we cry, we listen to music, and sing."
+     },
+    {
+        "id": "JC23",
+        "name": "Jennifer Clancey (‘23)",
+        "bio": "My name is Jennifer Clancey and I host the show “The Block” at the Doobie station. I’m a junior at Denison and I’m studying Psychology, Global Health and Narrative Journalism. In other terms, I’m learning about people, populations, and how to tell their stories. A couple other important things to know: I’m from New Jersey and I love to listen to music. I want to share with you all the songs, new and old, that capture a certain moment and feeling. Take a second wherever you’re at and tune in!"
      },
     {
          "id": "PFS",
@@ -35,14 +65,14 @@ djs = [
         "bio": "Outside of working as an Associate Director in CLIC, Patrick collects records and plays tenor saxophone. A subgenre enthusiast, tune in weekly for an exploration of a theme, slice in time, or an influential album listening from start-to-finish."
      },
     {
-        "id": "JW122",
-        "name": "James Whitney (‘22)",
-        "bio": "James is a biochemistry and communications double major from Whitehorse in the Yukon Territory. He began broadcasting at the young age of three, where he was left unattended in a radio station for roughly two hours. He accidentally got on the air and hosted one of the greatest shows of all time; his performance garnered international attention and led to him securing a spot on Forbes’ 2003 “Top Five Under Five” list. James has worked for NPR, Kurupt-FM 108.9, and WLTM-FM 106.7 prior to working for the Doobie. A well-rounded man, James is the managing editor for the Denisonian and the vice president of the Pi Beta Phi Sorority for Women. He is also well versed in Russian literature and is able to juggle 2+ objects at once. James once fought an adult grizzly bear and won by fatally crippling its self-esteem"
+        "id": "JP22",
+        "name": "Josh Poe (‘22)",
+        "bio": "Bio Coming Soon!"
      },
     {
         "id": "JH22",
         "name": "Juliet Hurwitz (‘22)",
-        "bio": "Juliet is a junior from outside of Boston and this is her third semester with the Doobie! When she’s not listening to music, she’s likely taking a nap, writing something new, eating, or watching Netflix.Her show The Curio Shop features selections from her Spotify’s Discover Weekly playlists, deep cuts, and anything that’s more unknown to the general public. If a new favorite song’s what you’re after, tune in; she hopes you find what you’re looking for."
+        "bio": "Juliet is a senior from outside of Boston and this is her fourth semester with the Doobie! When she’s not listening to music or making a new playlist, she’s likely taking a nap, writing something new, eating, or watching Netflix."
     },
     {
         "id": "RA22",
