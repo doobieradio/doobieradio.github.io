@@ -3,7 +3,7 @@ shows = [
         "title": "Doobie Mix",
         "dj": "Doobie DJs",
         "days": [0],
-        "startTime": 0200,
+        "startTime": 0,
         "endTime": 1330,
        "color": "#006699",
         "image": "default.jpg"
@@ -40,7 +40,7 @@ shows = [
         "dj": "Catlin Cornish ('24)",
         "days": [0],
         "startTime": 1930,
-        "endTime": 2100,
+        "endTime": 2130,
         "color": "#C8A2C8",
         "image": "default.jpg"
     },
@@ -48,7 +48,7 @@ shows = [
         "title": "M&M",
         "dj": "Mick Smith ('24) and Margaret Melich ('23)",
         "days": [0],
-        "startTime": 2100,
+        "startTime": 2130,
         "endTime": 2330,
         "color": "#20BC52",
         "image": "WilliamMainB.jpeg"
@@ -128,7 +128,7 @@ shows = [
     {
          "title": "PM in the Am",
         "dj": "Patrick Madden ('23)",
-        "days": [1],
+        "days": [2],
         "startTime": 0930,
         "endTime": 1130,
         "color": "#0FB9C1",
@@ -137,7 +137,7 @@ shows = [
     {
         "title": "Old Time Whatever",
         "dj": "Blythe Dahlem ('23)",
-        "days": [1],
+        "days": [2],
         "startTime": 1130,
         "endTime": 1330,
         "color": "#B72A18",
@@ -146,7 +146,7 @@ shows = [
     {
          "title": "Schmomo!",
         "dj": "Colleen Boyle ('24)",
-        "days": [1],
+        "days": [2],
         "startTime": 1330,
         "endTime": 1530,
         "color": "#633481",
