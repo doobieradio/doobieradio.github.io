@@ -153,12 +153,12 @@ shows = [
         "image": "JamesWhitneyB.jpg"
     },
     {
-        "title": "Doobie Mix",
-        "dj": "Doobie DJs",
+        "title": "Roheezy’s Deep Dead Dives",
+        "dj": "Rohan Arora ('22)",
         "days": [2],
-        "startTime": 0,
+        "startTime": 1330,
         "endTime": 1730,
-        "color": "#006699",
+        "color": "#76276D",
         "image": "default.jpg"
     },
     {
