@@ -9,7 +9,7 @@ shows = [
         "image": "default.jpg"
     },
     {
-        "title": "The Basket MIx",
+        "title": "The Basket Mix",
         "dj": "Barlow Wagner ('22)",
         "days": [0],
         "startTime": 1330,
@@ -37,7 +37,7 @@ shows = [
     },
     {
         "title": "POP Off!",
-        "dj": "Caitlin Cornish ('24)",
+        "dj": "Catlin Cornish ('24)",
         "days": [0],
         "startTime": 1930,
         "endTime": 2100,
