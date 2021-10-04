@@ -247,7 +247,7 @@ shows = [
         "dj": "Addy Pittenger ('24)",
         "days": [3],
         "startTime": 1930,
-        "endTime": 1330,
+        "endTime": 2130,
         "color": "#335EFF",
         "image": "JenniferClanceyB.jpg"
     },
@@ -328,7 +328,7 @@ shows = [
         "dj": "Jake Gunther ('22)",
         "days": [4],
         "startTime": 1930,
-        "endTime": 1230,
+        "endTime": 2130,
         "color": "#B2CF4D",
         "image": "JulietHurwitzB.jpeg"
     },
@@ -364,7 +364,7 @@ shows = [
         "dj": "James Mahaney ('22)",
         "days": [5],
         "startTime": 0930,
-        "endTime": 1330,
+        "endTime": 1130,
         "color": "#8534D0",
         "image": "BetsyWagnerB.HEIC"
     },
