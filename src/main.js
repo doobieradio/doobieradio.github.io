@@ -2,7 +2,7 @@
 
 var ohio = -4;
 function getTimeIntForTZ(tz) {
-    var i = (new Date().getETCHours() * 100 + tz * 100) + new Date().getMinutes();
+    var i = (new Date().getUTCHours() * 100 + tz * 100) + new Date().getMinutes();
     return i < 0 ? 2400 + i : i;
 }
 
