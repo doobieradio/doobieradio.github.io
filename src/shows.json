@@ -427,18 +427,9 @@ shows = [
         "dj": "Doobie DJs",
         "days": [6],
         "startTime": 0,
-        "endTime": 1330,
+        "endTime": 1530,
         "color": "#006699",
         "image": "default.jpg"
-    },
-    {
-        "title": "Let's Get Funky with Amanda Funk",
-        "dj": "Amanda Funk ('22)",
-        "days": [6],
-        "startTime": 1330,
-        "endTime": 1530,
-        "color": "#5A1298",
-        "image": "OliviaVrablikB.jpg"
     },
     {
         "title": "The Sharp Show (and Sarah)",
